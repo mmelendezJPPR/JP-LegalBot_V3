@@ -1,0 +1,23 @@
+### flujograma como guía de referencia
+
+1. **Presentación de Solicitud:**
+   a. Presentación electrónica en el portal único de tramitación digital.
+   b. Asignación de número único al trámite.
+
+2. **Evaluación de la Solicitud:**
+   a. Evaluación por la OGPe, PA o Municipios Autónomos.
+   b. Cumplimiento de requisitos establecidos en la Ley Núm. 161-2009 y Reglamento.
+   c. Cumplimiento de requisitos particulares detallados en el Capítulo para el tipo de servicio.
+   d. Rechazo de solicitudes incompletas.
+   e. Pago correspondiente según requerido.
+   f. Elevación del expediente a agencia central en caso de solicitud correspondiente.
+   g. Prohibición de pedir información adicional en casos bajo Ley Núm. 135.
+
+3. **Solicitud de Información Adicional:**
+   a. El solicitante puede ser requerido a aclarar, ampliar, corregir o suplementar información.
+
+4. **Validación de la Solicitud:**
+   a. Determinación en un plazo máximo de cinco (5) días laborables desde la presentación.
+   b. Notificación al solicitante mediante el sistema electrónico.
+
+Es importante seguir cada paso detenidamente y cumplir con los requisitos establecidos en el Reglamento de Emergencia Reglamento Conjunto 2023 para asegurar una evaluación acorde a los procedimientos establecidos.

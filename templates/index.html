@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="/static/js/app.js">  
+    <link rel="stylesheet" href="/static/css/style.css">
+    <title>JP_IA - Sistema Experto de Planificación</title>
+   
+</head>
+<body>
+    <!-- Botón menú móvil -->
+    <button class="mobile-menu-btn" onclick="toggleMobileMenu()">☰</button>
+    
+    <!-- Overlay móvil -->
+    <div class="mobile-overlay" id="mobileOverlay" onclick="toggleMobileMenu()"></div>
+
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <div class="logo-container">
+                    <img src="/static/JPlogo.png" alt="JP_IA Logo" class="logo-gov">
+                </div>
+            </div>
+
+            <nav class="specialists-nav">
+                <h3>Especialistas</h3>
+                
+                <button class="specialist-btn active" data-specialist="general">
+                    <div class="specialist-icon">🧠</div>
+                    <div class="specialist-info">
+                        <div class="specialist-name">Chat General</div>
+                        <div class="specialist-desc">Análisis completo</div>
+                    </div>
+                </button>
+            </nav>
+
+            <button class="new-chat-btn" onclick="newChat()">
+                <span>➕</span>
+                <span>Nueva Conversación</span>
+            </button>
+        </aside>
+
+        <!-- Área de Chat -->
+        <main class="chat-area">
+            <header class="chat-header">
+                <!-- IDs para compatibilidad con static/js/app.js -->
+                <h2 id="specialistTitle">Experto JP_IA</h2>
+                <p id="specialistDescription">Análisis Inteligente de Reglamentos de Planificación</p>
+                <div class="status-badge">
+                    <div class="status-dot"></div>
+                    Sistema Activo
+                </div>
+            </header>
+
+            <div class="messages-container" id="messagesContainer">
+                <div id="chatContainer" class="chat-messages" style="width: 100%;">
+                    <div class="welcome-message" id="welcomeMessage">
+                        <div class="welcome-content">
+                            <div class="assistant-avatar">
+                                <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M12 2C13.1 2 14 2.9 14 4C14 5.1 13.1 6 12 6C10.9 6 10 5.1 10 4C10 2.9 10.9 2 12 2ZM21 9V7L15 1H5C3.89 1 3 1.89 3 3V19A2 2 0 0 0 5 21H19A2 2 0 0 0 21 19V9M19 9H14V4L19 9Z" fill="currentColor"/>
+                                </svg>
+                            </div>
+                            <div class="welcome-text">
+                                <h3>¡Hola! Soy JP_IA</h3>
+                                <p>Tu asistente experto en planificación y reglamentos de Puerto Rico. Puedo ayudarte con consultas sobre permisos, zonificación, construcción y mucho más.</p>
+                            </div>
+                        </div>
+                        
+                        <div class="suggestions">
+                            <h4>Consultas populares</h4>
+                            <div class="suggestion-cards">
+                                <button class="suggestion-card" onclick="quickQuery('¿Qué permisos necesito para construir una casa?')">
+                                    <div class="suggestion-icon">🏠</div>
+                                    <div class="suggestion-content">
+                                        <div class="suggestion-title">Permisos de construcción</div>
+                                        <div class="suggestion-desc">Requisitos para edificar</div>
+                                    </div>
+                                </button>
+                                <button class="suggestion-card" onclick="quickQuery('¿Cuál es el proceso de zonificación?')">
+                                    <div class="suggestion-icon">🗂️</div>
+                                    <div class="suggestion-content">
+                                        <div class="suggestion-title">Proceso de zonificación</div>
+                                        <div class="suggestion-desc">Clasificación de terrenos</div>
+                                    </div>
+                                </button>
+                                <button class="suggestion-card" onclick="quickQuery('Regulaciones para sitios históricos')">
+                                    <div class="suggestion-icon">🏛️</div>
+                                    <div class="suggestion-content">
+                                        <div class="suggestion-title">Sitios históricos</div>
+                                        <div class="suggestion-desc">Patrimonio y conservación</div>
+                                    </div>
+                                </button>
+                                <button class="suggestion-card" onclick="quickQuery('¿Cómo solicitar un permiso de uso?')">
+                                    <div class="suggestion-icon">📋</div>
+                                    <div class="suggestion-content">
+                                        <div class="suggestion-title">Permiso de uso</div>
+                                        <div class="suggestion-desc">Tramitación y requisitos</div>
+                                    </div>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="input-area">
+                <div class="typing-indicator" id="typingIndicator">
+                    <div class="assistant-avatar-small">
+                        <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M12 2C13.1 2 14 2.9 14 4C14 5.1 13.1 6 12 6C10.9 6 10 5.1 10 4C10 2.9 10.9 2 12 2ZM21 9V7L15 1H5C3.89 1 3 1.89 3 3V19A2 2 0 0 0 5 21H19A2 2 0 0 0 21 19V9M19 9H14V4L19 9Z" fill="currentColor"/>
+                        </svg>
+                    </div>
+                    <div class="typing-animation">
+                        <div class="typing-dots">
+                            <div class="typing-dot"></div>
+                            <div class="typing-dot"></div>
+                            <div class="typing-dot"></div>
+                        </div>
+                        <span class="typing-text">JP_IA está escribiendo...</span>
+                    </div>
+                </div>
+
+                <div class="input-wrapper">
+                    <div class="input-container">
+                        <textarea 
+                            id="messageInput" 
+                            placeholder="Pregúntame sobre reglamentos de planificación..."
+                            rows="1"
+                            onkeydown="handleKeyPress(event)"
+                            maxlength="1000"
+                        ></textarea>
+                        <div class="input-actions">
+                            <button class="attachment-btn" title="Adjuntar archivo" disabled>
+                                <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M21.44 11.05L12.25 20.24C11.12 21.37 9.43 22 7.69 22S4.26 21.37 3.13 20.24C2 19.11 1.37 17.42 1.37 15.68S2 12.25 3.13 11.12L12.32 1.93C13.13 1.12 14.22 0.68 15.35 0.68S17.57 1.12 18.38 1.93C19.19 2.74 19.63 3.83 19.63 4.96S19.19 7.18 18.38 7.99L9.69 16.68C9.28 17.09 8.72 17.32 8.13 17.32S6.98 17.09 6.57 16.68C6.16 16.27 5.93 15.71 5.93 15.12S6.16 13.97 6.57 13.56L15.22 4.91" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                </svg>
+                            </button>
+                        </div>
+                    </div>
+                    <button class="send-btn" onclick="sendMessage()" title="Enviar mensaje">
+                        <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M2 21L23 12L2 3V10L17 12L2 14V21Z" fill="currentColor"/>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Cargar el script principal del frontend -->
+    <script src="/static/js/app.js"></script>
+</body>
+</html>

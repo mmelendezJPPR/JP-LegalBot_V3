@@ -1,0 +1,9 @@
+
+🔍 Fragmento 1:
+| Distrito de Calificación | Cabida Mínima (m²) | Cabida Máxima (m²) |
+|-----------------------|------------------|------------------|
+| R-B                   | 150              | No aplica        |
+| R-1                   | 150              | No aplica        |
+| R-U                   | 150              | No aplica        |
+| RT-1                  | 150              | No aplica        |
+| RT-A                  | 150              | No aplica        |

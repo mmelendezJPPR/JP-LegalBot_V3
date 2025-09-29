@@ -1,0 +1,52 @@
+### Flujograma: Evaluación de Sitios Históricos por la Junta de Planificación
+
+#### 1. **Inicio de la Evaluación**
+   - Recibir solicitud de evaluación de sitio histórico
+   - ¿La solicitud cumple con requisitos básicos del Reglamento de Emergencia Reglamento Conjunto 2023?
+     - **Sí:** Pasar al paso 2
+     - **No:** Solicitar documentación faltante
+
+#### 2. **Verificación de Criterios de Elegibilidad**
+   - Revisar si el sitio cumple criterios históricos, arquitectónicos o culturales
+   - ¿El sitio tiene más de 50 años y significado histórico relevante?
+     - **Sí:** Pasar al paso 3
+     - **No:** Evaluar otros criterios o descartar
+
+#### 3. **Evaluación de Documentación**
+   - Reunir y analizar documentación histórica relevante
+   - Revisar estudios arqueológicos si aplican
+   - ¿La documentación respalda la designación histórica?
+     - **Sí:** Pasar al paso 4
+     - **No:** Solicitar estudios adicionales
+
+#### 4. **Análisis de Impacto y Conservación**
+   - Evaluar el impacto de desarrollos propuestos en el área
+   - Determinar medidas de conservación necesarias
+   - ¿El desarrollo es compatible con la preservación histórica?
+     - **Sí:** Pasar al paso 5
+     - **No:** Solicitar modificaciones al proyecto
+
+#### 5. **Consulta con Entidades Especializadas**
+   - Consultar con el Instituto de Cultura Puertorriqueña si aplica
+   - Revisar con entidades arqueológicas pertinentes
+   - ¿Las entidades especializadas aprueban la designación?
+     - **Sí:** Pasar al paso 6
+     - **No:** Revisar criterios o modificar propuesta
+
+#### 6. **Determinación Final de la Junta**
+   - La Junta de Planificación evalúa toda la información
+   - ¿Se aprueba la designación como sitio histórico?
+     - **Sí:** Proceder con designación formal
+     - **No:** Denegar con justificación
+
+#### 7. **Implementación y Seguimiento**
+   - Establecer medidas de protección y conservación
+   - Crear plan de manejo del sitio histórico
+   - Implementar monitoreo continuo del estado del sitio
+
+#### 8. **Comunicación de Resultados**
+   - Notificar al solicitante la decisión final
+   - Informar sobre restricciones y obligaciones de conservación
+   - Publicar la designación según normativas aplicables
+
+Este flujograma proporciona una guía estructurada para la evaluación de Sitios Históricos por parte de la Junta de Planificación, conforme al Reglamento de Emergencia Reglamento Conjunto 2023.

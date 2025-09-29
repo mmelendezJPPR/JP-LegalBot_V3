@@ -1,0 +1,27 @@
+### Flujograma
+
+Proceso de evaluación de transacciones de terrenos públicos por la Junta de Planificación
+
+#### 1. **Inicia el proceso de solicitud de evaluación de transacciones de terrenos públicos.**
+#### 2. **Verifica si el terreno en cuestión es de propiedad pública.**
+#### 3. **Si es terreno público, se procede a evaluar la transacción.**
+#### 4. **¿La transacción implica uso o modificación de infraestructura eléctrica?**
+    - Sí: Continúa al paso 5.
+    - No: Fin del proceso de evaluación.
+#### 5. **Presenta solicitud de recomendaciones sobre obras eléctricas a la AEE.**
+#### 6. **Incluye en la solicitud los siguientes documentos**
+    a. Memorial explicativo del proyecto.
+    b. Planos de sitio que indiquen la ubicación del proyecto.
+    c. Detalle sobre alcance del proyecto y carga estimada en kKVA.
+    d. En caso de proyecto por etapas, presentar programa de trabajo con carga estimada al final de cada etapa.
+#### 7. **Recibe recomendación de la AEE.**
+#### 8. **Solicita permiso de construcción para las obras eléctricas.**
+#### 9. **Incluye en la solicitud de permiso**
+    a. Archivo digital de los planos del proyecto georreferenciados al sistema NAD 83.
+    b. Planos de construcción eléctrica firmados por el profesional responsable.
+    c. Documentos complementarios según condiciones del diseño.
+#### 10. **La Junta de Planificación evalúa la solicitud de permiso.**
+#### 11. **¿Se cumple con todos los requisitos y documentos necesarios?**
+    - Sí: Otorga permiso de construcción.
+    - No: Solicita corrección o complemento de documentos.
+#### 12. **Fin del proceso de evaluación de transacciones de terrenos públicos.**

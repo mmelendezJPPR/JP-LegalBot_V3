@@ -1,0 +1,41 @@
+### Guía de Referencia: Evaluación de Transacciones de Terrenos Públicos por la Junta de Planificación
+
+#### 1. **Inicio del Proceso**
+   - Solicitud de evaluación de transacción de terreno público por parte del solicitante
+   - ¿La solicitud cumple con los requisitos establecidos en el Reglamento de Emergencia Reglamento Conjunto 2023?
+     - **Sí:** Pasar al paso 2
+     - **No:** Solicitar correcciones al solicitante
+
+#### 2. **Evaluación Preliminar**
+   - Verificación de documentación presentada
+   - Análisis de la naturaleza de la transacción propuesta
+   - ¿La propuesta está dentro de los parámetros legales y reglamentarios?
+     - **Sí:** Pasar al paso 3
+     - **No:** Requerir ajustes o documentación adicional
+
+#### 3. **Análisis Técnico**
+   - Revisión por parte de la OGPe, el PA, la Junta Adjudicativa o el Municipio Autónomo según corresponda
+   - Evaluación del impacto en la planificación territorial
+   - ¿El proyecto cumple con los criterios técnicos establecidos?
+     - **Sí:** Pasar al paso 4
+     - **No:** Solicitar modificaciones
+
+#### 4. **Evaluación de Cumplimiento**
+   - Verificación de conformidad con las disposiciones del Reglamento de Emergencia Reglamento Conjunto 2023
+   - Análisis de compatibilidad con el uso del suelo
+   - ¿Cumple con todos los requisitos reglamentarios?
+     - **Sí:** Pasar al paso 5
+     - **No:** Denegar o solicitar correcciones
+
+#### 5. **Determinación Final**
+   - La Junta de Planificación emite la determinación final
+   - ¿Se aprueba la transacción?
+     - **Sí:** Establecer condiciones y requisitos
+     - **No:** Notificar las razones del rechazo
+
+#### 6. **Notificación y Seguimiento**
+   - Notificar la decisión al solicitante
+   - En caso de aprobación: establecer mecanismos de seguimiento
+   - Garantizar el cumplimiento de las condiciones establecidas
+
+Este flujograma describe los pasos generales para la evaluación de transacciones de terrenos públicos por parte de la Junta de Planificación, conforme al Reglamento de Emergencia Reglamento Conjunto 2023.

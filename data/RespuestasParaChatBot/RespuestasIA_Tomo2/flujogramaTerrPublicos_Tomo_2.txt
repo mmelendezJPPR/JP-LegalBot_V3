@@ -1,0 +1,42 @@
+### Flujograma de Trámites y Requerimientos: Evaluación de Transacciones de Terrenos Públicos por la Junta de Planificación
+
+#### 1. **Inicio del Proceso:**
+   - Solicitud de cambio de calificación o recalificación directa de solares o transacciones de terrenos públicos
+   - ¿La solicitud está completa y cumple requisitos básicos?
+     - **Sí:** Pasar al paso 2
+     - **No:** Solicitar documentación faltante
+
+#### 2. **Evaluación de la Solicitud:**
+   - Realizada por la Junta de Planificación o los Municipios Autónomos con Jerarquía de la I a la III
+   - ¿La propuesta cumple con el Reglamento de Emergencia Reglamento Conjunto 2023?
+     - **Sí:** Pasar al paso 3
+     - **No:** Requerir modificaciones
+
+#### 3. **Análisis Técnico y Legal:**
+   - Revisión de compatibilidad con la planificación territorial
+   - Evaluación de impacto en la infraestructura existente
+   - ¿El análisis es favorable?
+     - **Sí:** Pasar al paso 4
+     - **No:** Denegar o solicitar ajustes
+
+#### 4. **Emisión de Determinación Final:**
+   - La Junta de Planificación o los Municipios Autónomos emiten la determinación final
+   - Establecimiento de condiciones específicas si aplica
+
+#### 5. **Fiscalización del Cumplimiento:**
+   - La Junta de Planificación fiscaliza el cumplimiento de las determinaciones finales y permisos otorgados
+   - Monitoreo continuo del desarrollo autorizado
+
+#### 6. **Auditoría de Incumplimientos:**
+   - Si se detecta algún incumplimiento, se realiza una auditoría por la Junta de Planificación o una Entidad Gubernamental Concernida
+   - Documentación de las irregularidades encontradas
+
+#### 7. **Acciones Correctivas:**
+   - Se toman medidas correctivas según corresponda para garantizar el cumplimiento de las determinaciones finales
+   - Imposición de sanciones si es necesario
+
+#### 8. **Finalización del Proceso:**
+   - Una vez se cumplen los requisitos y se corrigen los posibles incumplimientos, el proceso se considera finalizado
+   - Archivo del expediente con documentación completa
+
+**Nota:** Cada paso del flujograma implica procedimientos detallados y la participación de diferentes entidades según lo establecido en el Reglamento de Emergencia Reglamento Conjunto 2023 sobre transacciones de terrenos públicos.

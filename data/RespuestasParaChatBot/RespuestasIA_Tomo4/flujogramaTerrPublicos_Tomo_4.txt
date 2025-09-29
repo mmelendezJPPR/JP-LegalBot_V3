@@ -1,0 +1,35 @@
+**Flujograma de Evaluación de Transacciones de Terrenos Públicos por la Junta de Planificación**
+
+```mermaid
+graph LR
+A[Inicio] --Solicitud de Evaluación--> B{Documentos Necesarios}
+B --Documentos Completos--> C[Evaluación de Documentos]
+C --Documentos Incompletos--> B
+C --Documentos Completos--> D{Visita Técnica}
+D --Visita Técnica Favorable--> E[Evaluación de Impacto]
+E --Impacto Aceptable--> F[Solicitud de Permiso]
+E --Impacto No Aceptable--> G[Rechazo]
+F --Permiso Aprobado--> H[Finalizado]
+G --Notificación al Solicitante--> H
+H --Fin-->
+```
+
+**Proceso de Evaluación de Transacciones de Terrenos Públicos por la Junta de Planificación:**
+
+1. **Inicio:** Se inicia el proceso de evaluación con la solicitud correspondiente.
+
+2. **Documentos Necesarios:** Se verifica que se hayan presentado todos los documentos requeridos.
+
+3. **Evaluación de Documentos:** Si los documentos están completos, se procede a la evaluación de los mismos. En caso de estar incompletos, se notifica al solicitante para que los complete.
+
+4. **Visita Técnica:** En caso de que la evaluación documental sea favorable, se realiza una visita técnica al terreno.
+
+5. **Evaluación de Impacto:** Se evalúa el impacto de la transacción en el terreno público.
+
+6. **Solicitud de Permiso:** Si el impacto es aceptable, se procede a la solicitud del permiso correspondiente. En caso contrario, se notifica al solicitante sobre el rechazo.
+
+7. **Permiso Aprobado:** Una vez se aprueba el permiso, se da por finalizado el proceso y se notifica al solicitante.
+
+8. **Notificación al Solicitante:** En caso de rechazo, se notifica al solicitante sobre las razones del mismo.
+
+9. **Fin:** Se finaliza el proceso de evaluación de transacciones de terrenos públicos por la Junta de Planificación.

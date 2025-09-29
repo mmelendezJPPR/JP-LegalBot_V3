@@ -1,0 +1,30 @@
+### flujograma
+
+#### 1. **Recepción de solicitud de evaluación de Sitio Histórico.**
+#### 2. **Verificar si el Sitio Histórico se encuentra dentro de un Plan Especial de conservación de recursos, conservación agrícola, preservación de recursos u otro plan especial.**
+    - Si NO está dentro de un Plan Especial:
+#### 3. **Revisar los distritos de calificación del Reglamento de Emergencia Reglamento Conjunto 2023 para determinar la clasificación del Sitio Histórico.**
+   - ¿Se cumple con los requisitos establecidos?
+     - **Sí:** Continuar al siguiente paso
+     - **No:** Solicitar correcciones o denegar
+
+#### 4. **Aplicar las disposiciones y parámetros del Reglamento de Emergencia Reglamento Conjunto 2023 para evaluar el Sitio Histórico.**
+   - ¿Se cumple con los requisitos establecidos?
+     - **Sí:** Continuar al siguiente paso
+     - **No:** Solicitar correcciones o denegar
+
+#### 5. **En caso de posibles conflictos entre el Reglamento de Emergencia Reglamento Conjunto 2023 y un plan especial no convertido, prevalecerán las disposiciones que mejor protejan el recurso.**
+    - Si está dentro de un Plan Especial:
+#### 3. **Verificar si el Plan Especial ha sido convertido a los distritos del Reglamento de Emergencia Reglamento Conjunto 2023.**
+   - ¿Se cumple con los requisitos establecidos?
+     - **Sí:** Continuar al siguiente paso
+     - **No:** Solicitar correcciones o denegar
+
+            a. Si ha sido convertido: aplicar las disposiciones del Reglamento de Emergencia Reglamento Conjunto 2023.
+            b. Si no ha sido convertido: aplicar las disposiciones del Plan Especial sobre usos y parámetros.
+#### 4. **En caso de discrepancias entre los usos y parámetros del Plan Especial convertido y aquellos no convertidos, prevalecerán los que mejor protejan el recurso.**
+#### 5. **Considerar las disposiciones de la Ley 33-2019 sobre mitigación, adaptación y resiliencia al cambio climático.**
+#### 6. **Realizar la evaluación del Sitio Histórico de acuerdo con las tipologías de calificación del suelo establecidas en la Ley 161-2009 y el Reglamento de Emergencia Reglamento Conjunto 2023.**
+#### 7. **Consolidar o crear nuevos distritos de calificación según sea necesario para regular actividades en el Sitio Histórico.**
+#### 8. **Emitir la evaluación final del Sitio Histórico y proceder conforme a las disposiciones del Reglamento de Emergencia Reglamento Conjunto 2023.**
+Es importante seguir el Reglamento de Emergencia Reglamento Conjunto 2023 y realizar un seguimiento detallado de todos los pasos para garantizar el cumplimiento de los requerimientos y trámites para la evaluación de Sitios Históricos por parte de la Junta de Planificación.

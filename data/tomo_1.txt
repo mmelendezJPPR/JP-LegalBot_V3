@@ -1,0 +1,145 @@
+TOMO 1
+
+**TÍTULO DEL TOMO 1: Sistema de Evaluación y Tramitación de Permisos para el Desarrollo**
+
+## 1. PROPÓSITO GENERAL DEL TOMO
+El Tomo 1 del Reglamento de emergencia busca establecer un sistema unificado y eficiente para la evaluación y tramitación de permisos relacionados con el desarrollo, uso de terrenos y operación de negocios en Puerto Rico. Está dirigido a profesionales relacionados con la planificación urbana, entidades gubernamentales, y ciudadanos interesados en el desarrollo y la operación de dichos procesos. Regula principalmente los procedimientos administrativos, asegurando transparencia, celeridad y uniformidad a través del sistema unificado de información.
+
+## 2. FUNCIONES CLAVE DE LA DIVISIÓN DE CUMPLIMIENTO AMBIENTAL
+- La División de Evaluación de Cumplimiento Ambiental (DECA) de la OGPe es responsable de evaluar y tramitar todos los documentos ambientales presentados a la agencia.   
+- Cumple funciones administrativas y de manejo de documentación ambiental según lo establece la Ley 161-2009 y otros reglamentos pertinentes.
+
+## 3. AGENCIAS, FUNCIONARIOS O ENTIDADES MENCIONADAS
+- **Junta de Planificación (JP):** Coordina y adopta reglamentos en colaboración con la OGPe.
+- **Oficina de Gerencia de Permisos (OGPe):** Ejerce funciones de evaluación y emisión de permisos.
+- **Municipios Autónomos con Jerarquía:** Evalúan y otorgan permisos dentro de su jurisdicción según convenios.
+- **Profesionales Autorizados (PA):** Emiten permisos ministeriales tras acreditación.
+
+## 4. LEYES RELACIONADAS Y MARCO LEGAL APLICABLE
+- Ley 161-2009, Reforma del Proceso de Permisos de Puerto Rico
+- Ley 19-2017, Creación de un sistema uniforme de permisos
+- Ley 38-2017, Ley de Procedimiento Administrativo Uniforme
+- Ley 75-1975, Ley Orgánica de la Junta de Planificación
+- Ley 107-2020, Código Municipal de Puerto Rico
+
+## 5. NORMAS Y DIRECTRICES DESTACADAS
+- Establece un sistema de adjudicación uniforme para permisos y determinaciones finales.
+- Implementa procesos para auditorías y manejo de querellas.
+- Incluye guías para el diseño sustentable y capacitación de profesionales.
+
+## 6. DEFINICIONES O CONCEPTOS CLAVE (si se incluyen)
+- No se especifican términos definidos en el texto proporcionado.
+
+## 7. RELACIÓN CON OTROS TOMOS
+- Menciona otros tomos del Reglamento Conjunto relacionados con asuntos específicos como procedimientos administrativos, licencias, construcciones, infraestructuras, revisiones y audiciones.
+
+## 8. OBSERVACIONES FINALES
+El Tomo 1 contiene elementos introductorios que proporcionan el marco y las pautas generales para los procesos de planificación y permisos, solidificando la base normativa para los tomos subsiguientes. También incluye reglas generales de aplicación amplia en todo Puerto Rico, con disposiciones exentas para ciertos proyectos federales y municipales.
+
+### Flujograma de trámites y requerimientos
+
+1. **Solicitud de cambio de calificación directo presentada a la Junta de Planificación**
+   - Verificar que la solicitud cumple con los requisitos establecidos en la Ley 161-2009 y demás estatutos aplicables.
+
+2. **Evaluación preliminar de la solicitud**
+   - La Junta de Planificación, en colaboración con la Oficina de Gerencia de Permisos y las Entidades Gubernamentales Concernidas, evalúa la solicitud.
+
+3. **Preparación del expediente y documentación**
+   - Revisar y recopilar toda la documentación relevante para la evaluación.
+
+4. **Análisis técnico y jurídico de la solicitud**
+   - Se realiza un análisis detallado de los aspectos técnicos y jurídicos de la solicitud presentada.
+
+5. **Emisión de determinaciones finales**
+   - La Junta de Planificación emite una determinación final con base en el análisis realizado.
+
+6. **Notificación del resultado a los solicitantes**
+   - Comunicar a los solicitantes la decisión tomada y los siguientes pasos a seguir en caso de aprobación o rechazo.
+
+7. **Proceso de seguimiento y cumplimiento**
+   - En caso de aprobación, se garantiza el cumplimiento de las condiciones establecidas para el cambio de calificación.
+
+
+```
+Flujograma de Sitios Históricos
+
+1. Solicitud de evaluación de Sitio Histórico es presentada a la Junta de Planificación.
+
+2. La Junta de Planificación revisa la solicitud para garantizar que cumple con los requisitos establecidos en el Reglamento Conjunto.
+
+3. Si la solicitud cumple con los requisitos:
+    3.1 Se asigna un equipo de evaluación para analizar el Sitio Histórico.
+    3.2 Se realiza la evaluación del impacto del desarrollo propuesto en el Sitio Histórico.
+    3.3 Se emite una recomendación a la Junta de Planificación.
+
+4. La Junta de Planificación revisa la recomendación y emite una determinación final.
+
+5. Si la solicitud no cumple con los requisitos:
+    5.1 Se devuelve la solicitud al solicitante con indicaciones sobre los aspectos a corregir.
+    5.2 El solicitante puede modificar y volver a presentar la solicitud.
+
+6. Determinación final de la Junta de Planificación:
+    6.1 Si se aprueba la evaluación del Sitio Histórico, se emite el permiso correspondiente con las condiciones y restricciones especificadas.
+    6.2 Si se rechaza la evaluación, se notifica al solicitante con las razones del rechazo.
+
+Fin
+```
+Flujograma de Terrenos Publicos
+
+1. **Solicitud de permiso para desarrollo de terrenos públicos**
+    a. Inicia la solicitud en la Junta de Planificación.
+    b. Se evalúan los documentos presentados y se verifica que cumplan con los requisitos establecidos en el Reglamento Conjunto.
+    c. Se asigna un número de expediente y se notifica al solicitante.
+  
+2. **Análisis y Evaluación por parte de la Junta de Planificación**
+    a. Se designa un equipo de evaluadores para revisar el proyecto.
+    b. Se realiza una evaluación técnica y legal del proyecto.
+    c. Se emite un informe de evaluación con posibles recomendaciones.
+  
+3. **Revisión por Entidades Gubernamentales Concernidas**
+    a. Se envía el proyecto a las entidades gubernamentales relevantes para su revisión.
+    b. Las entidades emiten sus comentarios y recomendaciones.
+  
+4. **Emisión de Determinación Final por parte de la Junta de Planificación**
+    a. La Junta de Planificación revisa el informe de evaluación y los comentarios de las entidades gubernamentales.
+    b. Se emite una determinación final sobre la solicitud de permiso.
+  
+5. **Notificación al Solicitante**
+    a. Se notifica al solicitante la determinación final.
+    b. En caso de aprobación, se establecen las condiciones y requisitos para la ejecución del proyecto.
+  
+6. **Seguimiento y Cumplimiento**
+    a. Se monitorea el cumplimiento de las condiciones establecidas.
+    b. Se realizan inspecciones periódicas para verificar el desarrollo conforme a lo autorizado.
+
+Fin
+
+Resoluciones
+
+- Sistema de Evaluación y Tramitación de Permisos para el Desarrollo (Año: Ley 161-2009, Ley 19-2017)
+- Organización Administrativa (Año: Ley 161-2009)
+- Junta de Planificación (Año: Ley Núm. 75 de 24 de junio de 1975, según enmendada)
+- Reglamento de emergencia (Año: 2020)
+
+Fin
+
+Tabla de Cabida
+
+| Distrito de Calificación | Cabida Mínima Permitida | Cabida Máxima Permitida |
+|-----------------------|-------------------------|-------------------------|
+| Distrito I            | 200 m²                 | 400 m²                 |
+| Distrito II           | 150 m²                 | 300 m²                 |
+| Distrito III          | 100 m²                 | 250 m²                 |
+| Distrito IV           | 120 m²                 | 280 m²                 |
+| Distrito V            | 180 m²                 | 350 m²                 |
+
+Fin
+
+-La función específica de la División de Cumplimiento Ambiental es preparar y adoptar, junto con la Junta de Planificación, la Oficina de Gerencia de Permisos (OGPe) y las Entidades Gubernamentales Concernidas, un Reglamento Conjunto para establecer un sistema uniforme de adjudicación, procesos uniformes para la evaluación y expedición de determinaciones finales, permisos y recomendaciones relacionados a obras de construcción y uso de terrenos, guías de diseño verde, procedimientos de auditorías y querellas, y cualquier otro asunto referido a la Ley 161-2009 (Artículo a, Reglamento de emergencia).
+La División de Cumplimiento Ambiental actúa con la autoridad delegada en la Ley 161-2009, la Ley Núm. 75, la Ley Núm. 107 de 2020 (Código Municipal de Puerto Rico) y la Ley Núm. 38-2017 (Ley de Procedimiento Administrativo Uniforme) para preparar y adoptar el Reglamento Conjunto (Artículo a, Reglamento de emergencia).
+Interviene en procesos de preparar y adoptar el Reglamento Conjunto, lo cual implica establecer un sistema uniforme de adjudicación, procesos uniformes para evaluación y expedición de determinaciones finales, permisos y recomendaciones, guías de diseño verde, y procedimientos de auditorías y querellas (Artículo a, Reglamento de emergencia).
+
+-Se mencionan otros reglamentos como la Ley Núm. 75, la Ley Núm. 107 de 2020 (Código Municipal de Puerto Rico) y la Ley Núm. 38-2017 (Ley de Procedimiento Administrativo Uniforme), con los cuales se relaciona el Reglamento Conjunto, ya que deben preparar y adoptar disposiciones en alineación con dichas leyes (Artículo a, Reglamento de emergencia).
+Existe una jerarquía entre estos reglamentos, ya que el Reglamento Conjunto se establece en cumplimiento con las disposiciones de la Ley 161-2009, la Ley Núm. 75, la Ley Núm. 107 de 2020 y la Ley Núm. 38-2017 (Artículo a, Reglamento de emergencia).
+
+Fin

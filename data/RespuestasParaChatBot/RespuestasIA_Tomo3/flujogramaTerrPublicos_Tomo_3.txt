@@ -1,0 +1,17 @@
+### Flujograma para el proceso de evaluación de transacciones de terrenos públicos por parte de la Junta de Planificación
+
+#### 1. **Presentación electrónica de la solicitud a través del SUl en el portal único de tramitación digital.**
+#### 2. **Asignación de un número único al trámite presentado.**
+#### 3. **Evaluación de la solicitud por la OGPe, los PA o los Municipios Autónomos con Jerarquías de la l a la lll, según delegación en la Ley Núm. 161-2009.**
+   - Cumplimiento de requisitos generales y particulares detallados en el Capítulo para cada tipo de servicio.
+   - No se aceptarán solicitudes incompletas.
+#### 4. **Realización del pago correspondiente establecido por el Secretario Auxiliar de la OGPe.**
+#### 5. **Examen del expediente digital por la Oficina de Permisos del municipio.**
+#### 6. **Elevación del expediente a la agencia correspondiente en un plazo no mayor de 10 días para proyectos de facultad de consideración de las agencias centrales.**
+#### 7. **Solicitud de Revisión Administrativa Expedita si no se eleva la solicitud en el plazo establecido.**
+#### 8. **Si la solicitud se presenta bajo la Ley Núm. 135, no se pueden requerir información adicional después de completar la solicitud.**
+#### 9. **La agencia puede pedir al solicitante aclaraciones, ampliaciones, correcciones o información adicional durante la evaluación.**
+#### 10. **Determinación de la OGPe y los Municipios Autónomos con Jerarquía de la l a la lll en un plazo no mayor de 5 días laborables desde la presentación de la solicitud si esta está completa.**
+#### 11. **Notificación de la validación de la solicitud al solicitante utilizando el sistema electrónico. **
+### flujograma es un resumen del proceso de evaluación de transacciones de terrenos públicos y los trámites involucrados. Cabe destacar que hay más detalles y requisitos en el Reglamento de Emergencia Reglamento Conjunto 2023 que deben ser consultados para un entendimiento completo del proceso.
+

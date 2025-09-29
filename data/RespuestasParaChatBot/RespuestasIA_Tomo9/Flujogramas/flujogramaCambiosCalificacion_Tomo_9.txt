@@ -1,0 +1,37 @@
+### flujograma con los pasos a seguir para la evaluación de cambios de calificación directo por parte de la Junta de Planificación de acuerdo al Reglamento de Emergencia Reglamento Conjunto 2023
+
+1. **Iniciar el trámite de cambio de calificación directo por la Junta de Planificación:**
+    - Presentar solicitud de recomendación sobre obras eléctricas.
+  
+    ![Solicitud de Recomendación](imagen1)
+   
+    - Adjuntar los siguientes documentos:
+        a. Memorial explicativo con descripción general del proyecto.
+        b. Planos de sitio que incluyan la ubicación del proyecto.
+        c. Detalle sobre el alcance del proyecto y la carga estimada en kilovoltio-amperios (kKVA).
+        d. Programa de trabajo en caso de ser un proyecto por etapas.
+
+2. **Revisión de la solicitud por parte de la Junta de Planificación:**
+    - Evaluación de los documentos presentados.
+    - Verificación de cumplimiento con los requisitos establecidos en el Reglamento de Emergencia Reglamento Conjunto 2023.
+  
+3. **Solicitud de permiso de construcción para obras eléctricas:**
+    - Presentar archivo digital de los planos del proyecto en formato DXF.
+    
+    ![Archivo Digital de Planos](imagen2)
+    
+    - Adjuntar planos de construcción eléctrica sellados y firmados por el profesional responsable.
+    - Complementar los planos con documentos que indiquen la fecha de elaboración y los datos de contacto del profesional.
+  
+4. **Evaluación de la documentación completa por parte de la Junta de Planificación:**
+    - Verificación de que los documentos cumplan con los requisitos exigidos.
+    - Análisis de la viabilidad del proyecto y su impacto en el entorno.
+  
+5. **Emisión de dictamen por la Junta de Planificación:**
+    - Aprobación o rechazo del cambio de calificación directo.
+    - Comunicación de la decisión al solicitante.
+
+### Flujograma de Evaluación de Cambios de Calificación por la Junta de Planificación](imagen3)
+
+### flujograma es una guía general y que el proceso puede variar dependiendo de las particularidades de cada caso y de las normativas específicas aplicables en cada jurisdicción.
+

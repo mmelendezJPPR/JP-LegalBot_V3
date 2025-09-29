@@ -1,0 +1,5 @@
+
+🔍 Fragmento 1:
+| Distrito de Calificación | Cabida Mínima (m²) | Cabida Máxima (m²) |
+|------------------------|------------------|------------------|
+| Distrito C-L           |                       0                         |                      Variable                   |

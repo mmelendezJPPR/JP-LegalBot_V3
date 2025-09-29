@@ -1,0 +1,11 @@
+
+🔍 Fragmento 1:
+A continuación se presenta una tabla con los distritos de calificación y las cabidas mínima y máxima permitidas para cada uno:
+
+| Distrito de Calificación | Cabida Mínima | Cabida Máxima |
+|-------------------------|---------------|---------------|
+| Municipios autónomos con Jerarquía de la I | 0.5 hectáreas  | 5 hectáreas   |
+| Municipios autónomos con Jerarquía de la II | 5 hectáreas    | 20 hectáreas  |
+| Municipios autónomos con Jerarquía de la III | 20 hectáreas  | Sin límite    |
+
+Es importante tener en cuenta que las cabidas mínimas y máximas pueden variar dependiendo de la zona y las regulaciones específicas de cada municipio autónomo.

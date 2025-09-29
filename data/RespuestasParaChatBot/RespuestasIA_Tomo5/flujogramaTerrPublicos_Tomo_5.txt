@@ -1,0 +1,35 @@
+### Guía de Referencia: Evaluación de Transacciones de Terrenos Públicos por la Junta de Planificación  
+
+#### 1. **Revisión de Solicitud**
+   - ¿La solicitud cumple con los requisitos establecidos en el Reglamento de Emergencia Reglamento Conjunto 2023?  
+     - **Sí:** Pasar al paso 2.  
+     - **No:** Solicitar al solicitante correcciones.
+
+#### 2. **Evaluación de Uso Propuesto del Terreno**
+   - Analizar el uso propuesto del terreno según las disposiciones generales.  
+   - ¿El uso propuesto internaliza los costos de infraestructura necesarios sin afectar la calidad de servicio?
+     - **Sí:** Pasar al paso 3.  
+     - **No:** Solicitar al solicitante ajustes para cumplir con los requisitos.
+
+#### 3. **Provisión para Remanentes**
+   - Determinar si se necesita proveer capacidad adicional en la infraestructura para remanentes.
+     - ¿El remanente está dentro o fuera del suelo urbano?
+       - **Dentro:** Proveer capacidad adicional.
+       - **Fuera o completando la lotificación:** No permitir capacidad adicional.
+
+#### 4. **Instalaciones Vecinales Comerciales**
+   - Evaluar casos de instalaciones comerciales no calificadas según el uso comercial aprobado.
+     - ¿Se deben evaluar conforme a un Distrito C-L?
+       - **Sí:** Realizar evaluación correspondiente.
+   
+#### 5. **Uso o Disposición de Terrenos Lotificados**
+   - Autorizar la construcción de estructuras en urbanizaciones junto con las obras de urbanización.
+   - Imponer limitaciones en los casos de lotificaciones producto de reparcelación.
+
+#### 6. **Lotificaciones de Hecho**
+   - Considerar solicitudes de segregaciones que cumplen condiciones específicas.
+   
+#### 7. **Dispensa a Arrendamientos**
+   - Evaluar los contratos de arrendamiento que no constituyen lotificaciones.
+   
+Además, se debe tener en cuenta cualquier otra disposición relevante del Reglamento de Emergencia Reglamento Conjunto 2023. En caso de dudas o situaciones no contempladas en esta guía, es recomendable consultar directamente el Reglamento para mayor claridad y precisión en el proceso de evaluación de transacciones de terrenos públicos.

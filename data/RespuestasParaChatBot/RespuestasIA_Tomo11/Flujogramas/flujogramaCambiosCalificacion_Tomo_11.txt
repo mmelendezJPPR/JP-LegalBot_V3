@@ -1,0 +1,38 @@
+### flujograma. Este flujograma se basa en las secciones relevantes mencionadas en el texto proporcionado.
+
+---
+
+### Flujograma
+
+Trámites para Evaluación de Cambios de Calificación Directo por la Junta de Planificación
+
+Inicio
+
+#### 1. **¿Hay una actuación o determinación final afectando a la parte interesada?**
+   - No: Fin del proceso
+   - Sí: Ir al paso 2
+
+#### 2. **Término para solicitar revisión administrativa**
+   - Presentar solicitud de revisión administrativa dentro de 20 días a partir de la fecha de archivo o depósito de la notificación.
+
+#### 3. **Presentación de una revisión administrativa**
+   - Utilizar el mecanismo provisto por el Sistema Unificado de Información (SUI).
+   - Adjuntar:
+     a. Evidencia de pago de arancel o derechos correspondientes.
+     b. Copia de la resolución a revisar.
+     c. Copia de la notificación de la resolución.
+
+#### 4. **Contenido mínimo del escrito de revisión administrativa**
+   - Incluir:
+     a. Nombre del peticionario, número de caso, dirección postal, correo electrónico.
+     b. Referencia de la decisión a revisar, breve relación de hechos, discusión de errores y súplica.
+     c. Asuntos específicos para revisión, partes del caso y sus direcciones.
+
+#### 5. **Notificación de la presentación de una revisión administrativa**
+   - Utilizar el mecanismo provisto por el SUI al presentar el recurso.
+
+#### 6. **Fin del Proceso**
+---
+
+### flujograma es una guía básica y que se deben seguir las disposiciones específicas del Reglamento de Emergencia Reglamento Conjunto 2023 y las instrucciones proporcionadas por la Junta de Planificación para realizar estos trámites de manera correcta.
+

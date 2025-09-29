@@ -1,0 +1,33 @@
+**Flujograma para evaluación de cambios de calificación directo por la Junta de Planificación:**
+
+1. **Inicio del proceso de solicitud de cambio de calificación directo**
+   - El desarrollador presenta la solicitud de cambio de calificación directo a la Junta de Planificación.
+
+2. **Revisión de la solicitud**
+   - Se revisa la documentación presentada para verificar que cumple con los requisitos establecidos en el Reglamento de Emergencia Reglamento Conjunto 2023.
+
+3. **Análisis inicial**
+   - Se realiza un análisis inicial de la solicitud para determinar si se ajusta a las disposiciones del Reglamento de Emergencia Reglamento Conjunto 2023.
+
+4. **Verificación de cumplimiento de requisitos**
+   - Se verifica si la solicitud cumple con los requisitos necesarios, como la justificación del cambio de calificación y su impacto en la infraestructura existente.
+
+5. **Evaluación de remanentes**
+   - Si corresponde, se evalúa si se cumple con la provisión para remanentes según lo establecido en el Reglamento.
+
+6. **Consideración de instalaciones vecinales comerciales**
+   - En caso de que la solicitud involucre instalaciones comerciales no calificadas, se evaluará conforme a las disposiciones del Reglamento.
+
+7. **Autorización de construcción**
+   - Se procede a autorizar la construcción de estructuras o edificaciones conjuntamente con las obras de urbanización, si aplica.
+
+8. **Revisión final**
+   - Se realiza una revisión final para asegurar que todo esté en orden antes de autorizar el cambio de calificación.
+
+9. **Aprobación o rechazo**
+   - La Junta de Planificación aprueba o rechaza el cambio de calificación directo basado en la evaluación realizada.
+
+10. **Notificación al desarrollador**
+    - Se notifica al desarrollador la decisión tomada respecto al cambio de calificación.
+
+Es importante que este flujograma se ajuste y complemente con los detalles específicos del Reglamento de Emergencia Reglamento Conjunto 2023 para asegurar el cumplimiento de todos los procedimientos y requisitos establecidos.
