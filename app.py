@@ -168,6 +168,80 @@ logger = logging.getLogger(__name__)
 # Inicializar base de datos al arrancar la aplicación
 inicializar_base_datos()
 
+# Inicializar base de datos híbrida (FTS y tablas de aprendizaje)
+def inicializar_hybrid_db():
+    """Crear/asegurar la base de datos hybrid_knowledge.db y tablas necesarias.
+    Ejecuta el SQL de `database/init_db.sql` si existe y crea tablas de
+    `conversations`, `conversation_messages` y `performance_metrics`.
+    """
+    from pathlib import Path
+    sql_path = Path('database') / 'init_db.sql'
+    db_dir = Path('database')
+    db_dir.mkdir(exist_ok=True)
+    db_path = db_dir / 'hybrid_knowledge.db'
+
+    try:
+        conn = sqlite3.connect(str(db_path))
+        cur = conn.cursor()
+
+        # Si existe init_db.sql, ejecutarlo para crear FTS y tablas base
+        if sql_path.exists():
+            try:
+                sql_text = sql_path.read_text(encoding='utf-8')
+                cur.executescript(sql_text)
+                logger.info(f"✅ Ejecutado SQL de inicialización: {sql_path}")
+            except Exception as e:
+                logger.warning(f"⚠️ Error ejecutando {sql_path}: {e}")
+
+        # Asegurar tablas para logging/aprendizaje que el app.py usa
+        cur.execute("""
+            CREATE TABLE IF NOT EXISTS conversations (
+                id TEXT PRIMARY KEY,
+                user_id TEXT,
+                specialist_type TEXT,
+                session_id TEXT,
+                started_at DATETIME DEFAULT CURRENT_TIMESTAMP
+            )
+        """)
+
+        cur.execute("""
+            CREATE TABLE IF NOT EXISTS conversation_messages (
+                id TEXT PRIMARY KEY,
+                conversation_id TEXT,
+                role TEXT,
+                content TEXT,
+                specialist_context TEXT,
+                processing_time REAL,
+                confidence_score REAL,
+                sources_used TEXT,
+                created_at DATETIME DEFAULT CURRENT_TIMESTAMP
+            )
+        """)
+
+        cur.execute("""
+            CREATE TABLE IF NOT EXISTS performance_metrics (
+                id TEXT PRIMARY KEY,
+                metric_type TEXT,
+                metric_value REAL,
+                specialist_area TEXT,
+                context_data TEXT,
+                created_at DATETIME DEFAULT CURRENT_TIMESTAMP
+            )
+        """)
+
+        conn.commit()
+        conn.close()
+        logger.info(f"✅ Hybrid DB inicializada/asegurada: {db_path}")
+        return True
+
+    except Exception as e:
+        logger.error(f"❌ Error inicializando hybrid DB: {e}")
+        return False
+
+
+# Ejecutar inicialización del hybrid DB ahora
+inicializar_hybrid_db()
+
 # Cargar configuración después del logger
 if PROMPTS_DISPONIBLES:
     logger.info("✅ Sistema de prompts profesional cargado desde ai_system/prompts.py")
