@@ -97,23 +97,77 @@ python app.py
 - **Respuestas Pre-generadas**: Casos comunes optimizados
 - **Actualización Dinámica**: Carga automática de contenido
 
+### 🧠 Sistema de Memoria Semántica (V3)
+- **Embeddings Avanzados**: Búsqueda semántica con Azure OpenAI text-embedding-3-small
+- **Memoria Conversacional**: Contexto persistente entre consultas usando embeddings
+- **Búsqueda Híbrida**: Combina búsqueda vectorial (semántica) con búsqueda léxica (keyword)
+- **Aprendizaje Incremental**: Actualización automática del índice de embeddings
+- **Consolidación de Memoria**: Conversión de interacciones frecuentes en conocimiento a largo plazo
+- **Reranking Inteligente**: Mejora de resultados por diversidad y relevancia
+
 ## 🔧 Configuración
 
 ### Variables de Entorno (.env)
-```bash
-OPENAI_API_KEY=tu_clave_openai
-FLASK_ENV=development
-FLASK_DEBUG=True
-```
 
-### Configuración de Producción
+#### 🚀 Embeddings Locales (Nuevo - Recomendado)
+
+**Características:**
+- ✅ **Sin costos de API** - Funciona completamente offline
+- ✅ **Privacidad total** - Datos nunca salen del servidor
+- ✅ **Modelo multilingüe** - Soporta español e inglés perfectamente
+- ✅ **Rendimiento optimizado** - Modelo ligero (24MB, 384 dimensiones)
+
+**Configuración automática:**
 ```bash
-# Para Railway o Heroku
+# El sistema detecta automáticamente y usa embeddings locales
+# No se requiere configuración adicional - funciona out-of-the-box
 python app.py
-
-# Para servidor local
-gunicorn -c gunicorn_config.py app:app
 ```
+
+**Para reconstruir índice con embeddings locales:**
+```bash
+python scripts/rebuild_index_local.py
+```
+
+#### Configuración Azure OpenAI (Opcional)
+```bash
+# Azure OpenAI (para chat - más económico y seguro)
+AZURE_OPENAI_ENDPOINT=https://tu-recurso.openai.azure.com/
+AZURE_OPENAI_KEY=tu_clave_azure_aqui
+AZURE_OPENAI_API_VERSION=2024-12-01-preview
+AZURE_OPENAI_DEPLOYMENT_NAME=gpt-4.1
+
+# Embeddings - DESHABILITADO (usando locales por defecto)
+# AZURE_OPENAI_EMBEDDING_DEPLOYMENT=text-embedding-3-small
+```
+
+### 🚀 Inicio Rápido con Embeddings
+
+1. **Configura OpenAI API Key** (requerido para embeddings):
+   ```bash
+   # Edita el archivo .env
+   OPENAI_API_KEY=sk-tu_clave_openai_aqui
+   ```
+
+2. **Configura Azure OpenAI** (opcional pero recomendado):
+   ```bash
+   # En .env agrega:
+   AZURE_OPENAI_ENDPOINT=https://tu-recurso.openai.azure.com/
+   AZURE_OPENAI_KEY=tu_clave_azure
+   AZURE_OPENAI_DEPLOYMENT_NAME=gpt-4.1
+   ```
+
+3. **Prueba los embeddings**:
+   ```bash
+   python scripts/test_embeddings.py
+   ```
+
+### ⚙️ Funcionamiento de Embeddings
+
+- **Con Azure + OpenAI**: Chat usa Azure (económico), embeddings usan OpenAI directo
+- **Solo Azure**: Si tienes deployment de embeddings en Azure
+- **Solo OpenAI**: Funciona pero más costoso
+- **Sin embeddings**: El sistema usa solo búsqueda textual (funciona pero menos preciso)
 
 ## 📊 API Endpoints
 

@@ -680,14 +680,14 @@ try:
             # Lista de patrones problemáticos a reemplazar
             patrones_problematicos = [
                 # Patrones con "2020"
-                (r"Reglamento\s+Conjunto\s+de?\s*2020", "Reglamento Conjunto de Emergencia Reglamento Conjunto 2023"),
-                (r"Reglamento\s+Conjunto\s*\|\s*2020", "Reglamento Conjunto de Emergencia Reglamento Conjunto 2023"),
-                (r"Reglamento\s+Conjunto\s*\(\s*2020\s*\)", "Reglamento Conjunto de Emergencia Reglamento Conjunto 2023"),
-                (r"Reglamento\s+Conjunto\s+2020", "Reglamento Conjunto de Emergencia Reglamento Conjunto 2023"),
+                (r"Reglamento\s+Conjunto\s+de?\s*2020", "Reglamento Conjunto 2023"),
+                (r"Reglamento\s+Conjunto\s*\|\s*2020", "Reglamento Conjunto 2023"),
+                (r"Reglamento\s+Conjunto\s*\(\s*2020\s*\)", "Reglamento Conjunto 2023"),
+                (r"Reglamento\s+Conjunto\s+2020", "Reglamento Conjunto 2023"),
                 
                 # Patrones adicionales problemáticos
-                (r"Reglamento\s+Conjunto\s+para\s+la\s+Evaluación.*2020", "Reglamento Conjunto de Emergencia Reglamento Conjunto 2023"),
-                (r"Reglamento\s+de\s+Zonificación.*2020", "Reglamento Conjunto de Emergencia Reglamento Conjunto 2023"),
+                (r"Reglamento\s+Conjunto\s+para\s+la\s+Evaluación.*2020", "Reglamento Conjunto 2023"),
+                (r"Reglamento\s+de\s+Zonificación.*2020", "Reglamento Conjunto 2023"),
             ]
             
             respuesta_filtrada = respuesta
@@ -873,7 +873,7 @@ MEMORIA CONVERSACIONAL:
                     
                 else:
                     # Fallback al prompt básico (solo si no está disponible el profesional)
-                    system_prompt_basico = f"""Eres JP_IA, un experto en el Reglamento Conjunto de Emergencia Reglamento Conjunto 2023 de la Junta de Planificación de Puerto Rico.
+                    system_prompt_basico = f"""Eres JP_IA, un experto en el Reglamento Conjunto 2023 de la Junta de Planificación de Puerto Rico.
 
 CONTEXTO RELEVANTE:
 {context}
@@ -883,7 +883,7 @@ HISTORIAL DE CONVERSACIÓN:
 
 INSTRUCCIONES:
 - SIEMPRE revisa el HISTORIAL antes de responder para mantener coherencia
-- Usa referencias exactas: "Reglamento Conjunto de Emergencia Reglamento Conjunto 2023" (NUNCA uses "2020" en el título)
+- Usa referencias exactas: "Reglamento Conjunto 2023" (NUNCA uses "2020" en el título)
 - Incluye referencias específicas a TOMOS, Capítulos y Artículos
 - Mantén un tono profesional y didáctico
 - Si hay seguimiento a temas previos, conéctalo explícitamente
@@ -1071,9 +1071,21 @@ INSTRUCCIONES: Mantén coherencia con el historial previo. Si el usuario hace re
                     consulta_con_contexto = consulta
                     logger.info("📝 Sin historial previo, consulta nueva")
                 
-                # Usar el nuevo sistema de IA CON CONTEXTO
-                resultado = answer_engine.answer(consulta_con_contexto, k=6)
-                logger.info(f"✅ Answer engine respondió: {type(resultado)} - keys: {resultado.keys() if isinstance(resultado, dict) else 'N/A'}")
+                # Obtener o crear conversation_id para memoria semántica
+                # Cada consulta nueva debe tener su propio conversation_id para evitar contaminación de contexto
+                conversation_id = f"conv_{usuario}_{int(time.time())}_{hash(consulta) % 10000}"
+                logger.info(f"🆔 Conversation ID generado: {conversation_id}")
+                
+                # NO reutilizar conversaciones existentes automáticamente para evitar contaminación de contexto
+                # El sistema de memoria semántica debe mantener conversaciones separadas
+                
+                # Usar el nuevo sistema de IA CON MEMORIA SEMÁNTICA
+                resultado = answer_engine.answer_with_memory(
+                    query=consulta_con_contexto, 
+                    conversation_id=conversation_id, 
+                    k=6
+                )
+                logger.info(f"✅ Answer engine con memoria semántica respondió: {type(resultado)} - keys: {resultado.keys() if isinstance(resultado, dict) else 'N/A'}")
                 
                 respuesta_final = {
                     'respuesta': resultado.get('text', ''),  # CORREGIDO: 'text' no 'response'

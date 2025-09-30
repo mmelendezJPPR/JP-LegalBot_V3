@@ -10,10 +10,10 @@ AZURE_OPENAI_API_VERSION = os.getenv("AZURE_OPENAI_API_VERSION", "2024-12-01-pre
 AZURE_OPENAI_DEPLOYMENT_NAME = os.getenv("AZURE_OPENAI_DEPLOYMENT_NAME", "gpt-4.1")
 AZURE_OPENAI_EMBEDDING_DEPLOYMENT = os.getenv("AZURE_OPENAI_EMBEDDING_DEPLOYMENT", "text-embedding-3-small")
 
-# Fallback OpenAI (legacy) - DESHABILITADO para usar solo Azure
-# OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
-# MODEL_EMBED = os.getenv("MODEL_EMBED", "text-embedding-3-small")
-# MODEL_CHAT = os.getenv("MODEL_CHAT", "gpt-4o-mini")
+# Fallback OpenAI para embeddings (cuando Azure no tiene deployment)
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
+MODEL_EMBED = os.getenv("MODEL_EMBED", "text-embedding-3-small")
+MODEL_CHAT = os.getenv("MODEL_CHAT", "gpt-4o-mini")
 
 DB_PATH = os.getenv("DB_PATH", "database/hybrid_knowledge.db")
 FAISS_PATH = os.getenv("FAISS_PATH", "database/faiss_index.bin")

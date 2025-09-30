@@ -20,31 +20,47 @@ def upsert_chunk(con, chunk_id, doc_id, page_start, page_end, heading_path, text
                  (text, chunk_id, doc_id, heading_path, page_start, page_end))
 
 def fts_search(con, query: str, limit: int = 24):
-    # Adaptado para la estructura real de la base de datos
+    # Adaptado para la estructura real de la base de datos existente
     try:
-        # La tabla fts_chunks en init_db.sql usa la columna `chunk_text` y columnas
-        # adicionales como `chunk_id`, `doc_id`, `heading_path`, `page_start`, `page_end`.
+        # Sanitizar la consulta para FTS5 - remover caracteres problemáticos
+        import re
+        # Mantener solo letras, números, espacios y operadores FTS básicos
+        sanitized_query = re.sub(r'[^\w\s]', ' ', query)
+        # Normalizar espacios múltiples
+        sanitized_query = ' '.join(sanitized_query.split())
+        # Si la consulta queda vacía, usar la original
+        if not sanitized_query.strip():
+            sanitized_query = query
+
+        print(f"🔍 Consulta FTS: '{sanitized_query}' (original: '{query}')")
+
+        # La tabla fts_chunks actual tiene columnas: content, tomo, capitulo, articulo, tipo_seccion, fuente
         cur = con.execute("""
-            SELECT rowid, chunk_text, chunk_id, doc_id, heading_path, page_start, page_end,
+            SELECT rowid, content, tomo, capitulo, articulo, tipo_seccion, fuente,
                    snippet(fts_chunks, 0, '«', '»', ' … ', 10) AS snip
             FROM fts_chunks WHERE fts_chunks MATCH ? LIMIT ?
-        """, (query, limit))
+        """, (sanitized_query, limit))
 
         results = []
         for row in cur.fetchall():
-            # row es sqlite3.Row: acceder por nombre es más claro
-            text = row['chunk_text'] if 'chunk_text' in row.keys() else row[1]
-            doc_id = row['doc_id'] if 'doc_id' in row.keys() else (row['chunk_id'] if 'chunk_id' in row.keys() else None)
-            heading = row['heading_path'] if 'heading_path' in row.keys() else None
-            page_start = row['page_start'] if 'page_start' in row.keys() else None
-            page_end = row['page_end'] if 'page_end' in row.keys() else None
+            # Adaptar nombres de columnas a la estructura esperada
+            text = row['content'] if 'content' in row.keys() else row[1]
+            doc_id = row['fuente'] if 'fuente' in row.keys() else (row['tomo'] if 'tomo' in row.keys() else None)
+            heading = f"TOMO {row['tomo']}" if row['tomo'] else ""
+            if row['capitulo']:
+                heading += f" > CAPÍTULO {row['capitulo']}"
+            if row['articulo']:
+                heading += f" > ARTÍCULO {row['articulo']}"
+            page_start = None  # No disponible en estructura actual
+            page_end = None    # No disponible en estructura actual
             snip = row['snip'] if 'snip' in row.keys() else (text[:200] if text else '')
 
             result = {
                 'rowid': row['rowid'] if 'rowid' in row.keys() else row[0],
+                'chunk_id': str(row['rowid'] if 'rowid' in row.keys() else row[0]),  # Agregar chunk_id como rowid
                 'text': text,
                 'doc_id': doc_id or '',
-                'heading_path': heading or '',
+                'heading_path': heading,
                 'page_start': page_start,
                 'page_end': page_end,
                 'snip': snip
