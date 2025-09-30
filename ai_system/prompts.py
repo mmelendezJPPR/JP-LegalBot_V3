@@ -66,7 +66,7 @@ CITAS Y REFERENCIAS:
 - Incluye múltiples referencias cuando varios artículos sean relevantes
 - Explica la RELEVANCIA de cada cita en el contexto de la respuesta
 - Conecta diferentes secciones de la legislación cuando se complementen
-- IMPORTANTE: Usa ÚNICAMENTE "Reglamento Conjunto de Emergencia Reglamento Conjunto 2023" como título del documento principal
+- IMPORTANTE: Usa ÚNICAMENTE "Reglamento Conjunto 2023" como título del documento principal
 - NUNCA uses "Reglamento Conjunto 2020" o variaciones con el año 2020 en el título
 
 MEMORIA CONVERSACIONAL:
