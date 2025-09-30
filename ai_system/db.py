@@ -22,20 +22,32 @@ def upsert_chunk(con, chunk_id, doc_id, page_start, page_end, heading_path, text
 def fts_search(con, query: str, limit: int = 24):
     # Adaptado para la estructura real de la base de datos
     try:
-        cur = con.execute("""SELECT rowid, content, tomo, capitulo, articulo, tipo_seccion, fuente,
-                               snippet(fts_chunks, 0, '«', '»', ' … ', 10) AS snip
-                            FROM fts_chunks WHERE fts_chunks MATCH ? LIMIT ?""", (query, limit))
+        # La tabla fts_chunks en init_db.sql usa la columna `chunk_text` y columnas
+        # adicionales como `chunk_id`, `doc_id`, `heading_path`, `page_start`, `page_end`.
+        cur = con.execute("""
+            SELECT rowid, chunk_text, chunk_id, doc_id, heading_path, page_start, page_end,
+                   snippet(fts_chunks, 0, '«', '»', ' … ', 10) AS snip
+            FROM fts_chunks WHERE fts_chunks MATCH ? LIMIT ?
+        """, (query, limit))
+
         results = []
         for row in cur.fetchall():
-            # Convertir a formato esperado por el sistema
+            # row es sqlite3.Row: acceder por nombre es más claro
+            text = row['chunk_text'] if 'chunk_text' in row.keys() else row[1]
+            doc_id = row['doc_id'] if 'doc_id' in row.keys() else (row['chunk_id'] if 'chunk_id' in row.keys() else None)
+            heading = row['heading_path'] if 'heading_path' in row.keys() else None
+            page_start = row['page_start'] if 'page_start' in row.keys() else None
+            page_end = row['page_end'] if 'page_end' in row.keys() else None
+            snip = row['snip'] if 'snip' in row.keys() else (text[:200] if text else '')
+
             result = {
-                'rowid': row[0],
-                'text': row[1],  # content -> text
-                'doc_id': f"{row[2]}_{row[3]}_{row[4]}",  # tomo_capitulo_articulo
-                'heading_path': f"Tomo {row[2]} - {row[3]} - {row[4]}",
-                'page_start': None,
-                'page_end': None,
-                'snip': row[7] if len(row) > 7 else row[1][:200]
+                'rowid': row['rowid'] if 'rowid' in row.keys() else row[0],
+                'text': text,
+                'doc_id': doc_id or '',
+                'heading_path': heading or '',
+                'page_start': page_start,
+                'page_end': page_end,
+                'snip': snip
             }
             results.append(result)
         return results

@@ -96,7 +96,8 @@ class HybridRetriever:
         # Recupera texto desde FTS por rowid (adaptado para nueva estructura)
         with get_conn(self.db_path) as con:
             qmarks = ",".join("?"*len(chunk_ids))
-            cur = con.execute(f"SELECT rowid, content FROM fts_chunks WHERE rowid IN ({qmarks})", chunk_ids)
+            # La columna de texto se llama `chunk_text` en la tabla FTS
+            cur = con.execute(f"SELECT rowid, chunk_text FROM fts_chunks WHERE rowid IN ({qmarks})", chunk_ids)
             return {str(r[0]): r[1] for r in cur.fetchall()}
 
     def hybrid(self, query: str, k_vec=12, k_lex=12, final_k=6) -> List[Dict]:
