@@ -1,4 +1,13 @@
-# Environment variables
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+database/*.db
+database/*.sqlite
+database/*.sqlite3
+conversaciones.db
+
+# Environment and config files
 .env
 .env.local
 .env.production
