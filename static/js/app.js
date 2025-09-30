@@ -694,9 +694,9 @@ function formatBotResponse(text) {
     formatted = formatted.replace(/\*\*(.*?)\*\*/g, '<strong class="highlight">$1</strong>');
     formatted = formatted.replace(/\*(.*?)\*/g, '<em class="emphasis">$1</em>');
     
-    // 4. Formatear referencias a TOmos con estilo especial
-    formatted = formatted.replace(/TOMO\s+(\d+)/gi, '<span class="tomo-reference">TOMO $1</span>');
-    formatted = formatted.replace(/\[TOMO ([^\]]+)\]/g, '<span class="citation">📋 TOMO $1</span>');
+    // 4. Mantener referencias a TOMO como texto plano (sin estilos ni emoji)
+    // Dejar 'TOMO N' tal cual y convertir [TOMO X] a 'TOMO X' sin iconos
+    formatted = formatted.replace(/\[TOMO ([^\]]+)\]/g, 'TOMO $1');
     
     // 5. Formatear listas y viñetas
     formatted = formatted.replace(/^-\s+(.*?)(<br>|$)/gm, '<li class="list-item">$1</li>');
