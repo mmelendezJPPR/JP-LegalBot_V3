@@ -1,0 +1,14 @@
+
+🔍 Fragmento 1:
+| Distrito de Calificación | Cabida Mínima Permitida (metros cuadrados) | Cabida Máxima Permitida (metros cuadrados) |
+|-----------------------|----------------------------------------------|---------------------------------------------|
+| Zonas de Interés Turístico (ZIT) | 1000 | 5000 |
+| Zonas Históricas (ZH) | 800 | 3000 |
+| Zonas Escolares (ZE) | 1200 | 4000 |
+| Zonas Portuarias (ZP) | 1500 | 4500 |
+| Zonas de Riesgos (ZR) | 1000 | 5000 |
+| Áreas de Planificación Especial (APE) | 800 | 3500 |
+| Zonas Especiales de Planificación (ZEP) | 900 | 4000 |
+| Reservas Naturales (RN) | 2000 | 6000 |
+| Reservas Agrícolas (RA) | 1500 | 5000 |
+| Cambios de Calificación | 1000 | 4000 |

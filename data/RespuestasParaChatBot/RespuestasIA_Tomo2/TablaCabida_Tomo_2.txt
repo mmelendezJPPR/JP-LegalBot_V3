@@ -1,0 +1,16 @@
+
+🔍 Fragmento 1:
+A continuación, se presenta una tabla que ilustra las columnas sobre cabida mínima y cabida máxima permitida para cada distrito de calificación:
+
+| Distrito de Calificación | Cabida Mínima Permitida | Cabida Máxima Permitida |
+|--------------------------|-------------------------|-------------------------|
+| Distrito 1 | 200 m² | 500 m² |
+| Distrito 2 | 150 m² | 400 m² |
+| Distrito 3 | 300 m² | 600 m² |
+| Distrito 4 | 250 m² | 450 m² |
+| Distrito 5 | 180 m² | 350 m² |
+| Distrito 6 | 400 m² | 800 m² |
+| Distrito 7 | 350 m² | 700 m² |
+| Distrito 8 | 270 m² | 550 m² |
+| Distrito 9 | 220 m² | 480 m² |
+| Distrito 10 | 320 m² | 680 m² |

@@ -1,0 +1,28 @@
+A continuación se presenta un flujograma que resume los pasos necesarios para la evaluación de Sitios Históricos por parte de la Junta de Planificación, de acuerdo con el Reglamento de Emergencia Reglamento Conjunto 2023:
+
+```
+Inicio
+
+1. Solicitud de evaluación de Sitio Histórico es presentada a la Junta de Planificación.
+
+2. La Junta de Planificación revisa la solicitud para garantizar que cumple con los requisitos establecidos en el Reglamento de Emergencia Reglamento Conjunto 2023.
+
+3. Si la solicitud cumple con los requisitos:
+    3.1 Se asigna un equipo de evaluación para analizar el Sitio Histórico.
+    3.2 Se realiza la evaluación del impacto del desarrollo propuesto en el Sitio Histórico.
+    3.3 Se emite una recomendación a la Junta de Planificación.
+
+4. La Junta de Planificación revisa la recomendación y emite una determinación final.
+
+5. Si la solicitud no cumple con los requisitos:
+    5.1 Se devuelve la solicitud al solicitante con indicaciones sobre los aspectos a corregir.
+    5.2 El solicitante puede modificar y volver a presentar la solicitud.
+
+6. Determinación final de la Junta de Planificación:
+    6.1 Si se aprueba la evaluación del Sitio Histórico, se emite el permiso correspondiente con las condiciones y restricciones especificadas.
+    6.2 Si se rechaza la evaluación, se notifica al solicitante con las razones del rechazo.
+
+Fin
+```
+
+Este flujograma representa de manera general los pasos a seguir para la evaluación de Sitios Históricos por parte de la Junta de Planificación, siguiendo las disposiciones del Reglamento de Emergencia Reglamento Conjunto 2023. Es importante tener en cuenta que pueden existir variaciones o procedimientos adicionales dependiendo de la naturaleza específica de cada solicitud y de la normativa aplicable en cada caso.

@@ -1,0 +1,37 @@
+### Flujograma para el proceso de evaluación de transacciones de terrenos públicos por la Junta de Planificación
+
+1. **Inicio del proceso de evaluación:** Presentación de la solicitud de transacción de terrenos públicos a la Junta de Planificación.
+
+2. **Verificación de la documentación:** ¿Se cumple con todos los documentos requeridos para la evaluación de la transacción?
+    - Sí: Continuar al paso 3.
+    - No: Solicitar al solicitante la documentación faltante y regresar al paso 2.
+
+3. **Revisión de la zonificación y calificación del terreno:**
+    - ¿El terreno se encuentra dentro de un distrito de calificación establecido por la Junta de Planificación?
+        - Sí: Continuar al paso 4.
+        - No: Se requiere ajuste de la zonificación o calificación del terreno según el Reglamento de Emergencia Reglamento Conjunto 2023.
+
+4. **Consideraciones especiales:**
+    - ¿El terreno se encuentra en un área sujeta a planes especiales de conservación o preservación de recursos?
+        - Sí: Aplicar las disposiciones especiales indicadas en el Reglamento de Emergencia Reglamento Conjunto 2023.
+        - No: Continuar al paso 5.
+
+5. **Análisis de conflictos o discrepancias:**
+    - ¿Existen conflictos entre los usos y parámetros del terreno según normativas especiales y el Reglamento de Emergencia Reglamento Conjunto 2023?
+        - Sí: Resolver aplicando las disposiciones de protección ambiental y recursos naturales.
+        - No: Continuar al paso 6.
+
+6. **Cumplimiento de normativas adicionales:**
+    - ¿Se cumple con la Ley 33-2019 sobre mitigación, adaptación y resiliencia al cambio climático?
+        - Sí: Pasar al paso 7.
+        - No: Notificar al solicitante y requerir ajustes según la normativa.
+
+7. **Emisión de recomendaciones:**
+    - ¿Se han cumplido todos los requerimientos y normativas establecidas?
+        - Sí: Emitir recomendación favorable para la transacción de terrenos públicos.
+        - No: Indicar los ajustes necesarios para cumplir con los criterios de evaluación.
+
+8. **Entrega de resolución:** Comunicar la decisión de la Junta de Planificación al solicitante respecto a la transacción de terrenos públicos.
+
+### flujograma proporciona una guía simplificada del proceso de evaluación de transacciones de terrenos públicos por la Junta de Planificación, tomando en consideración las disposiciones del Reglamento de Emergencia Reglamento Conjunto 2023.
+

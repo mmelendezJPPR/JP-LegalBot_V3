@@ -1,0 +1,35 @@
+TOMO VI - Distancia de calificación
+
+1. ¿Qué es una equivalencia?
+Una equivalencia es una relación de igualdad o similitud entre diferentes elementos, en este caso, entre distritos de calificación.
+
+2. ¿Cuántas clasificaciones hay?
+Hay diversas clasificaciones de distritos de calificación.
+
+3. ¿Cuántas calificaciones son similares y se pueden consolidar?
+Se pueden consolidar aquellos distritos que sean similares o afines para reducir su cantidad.
+
+4. ¿Cuántos planes especiales hay y qué requisitos tienen?
+Existen planes especiales que responden a políticas públicas especiales y tienen requisitos específicos.
+
+5. ¿Cuántas calificaciones de conservación hay?
+Puede haber varias calificaciones de conservación.
+
+6. Correlacionar las calificaciones de conservación y consolidar en menos
+Se pueden correlacionar y consolidar las calificaciones de conservación para simplificar el sistema.
+
+7. ¿Qué es un parámetro de diseño, cómo se utilizan?
+Un parámetro de diseño es una medida o valor utilizado para diseñar de manera efectiva, se utilizan para establecer límites o características en el desarrollo y uso de terrenos.
+
+8. ¿Cuántas prohibiciones tienen las calificaciones?
+Las calificaciones pueden tener prohibiciones que regulan ciertas actividades o usos en determinados terrenos.
+
+9. ¿Cómo interactúa el plan de uso de terrenos?
+El plan de uso de terrenos interactúa con las calificaciones al establecer cómo se puede utilizar un terreno de acuerdo a su calificación.
+
+10. ¿Cuántos procesos ambientales se utilizan en las calificaciones?
+Pueden utilizarse diferentes procesos ambientales en la calificación de terrenos para evaluar su impacto y sostenibilidad.
+
+11. ¿Qué certificaciones de agencia se requieren para las calificaciones?
+Es importante obtener certificaciones de agencia requeridas para las calificaciones de manera legal y adecuada.
+

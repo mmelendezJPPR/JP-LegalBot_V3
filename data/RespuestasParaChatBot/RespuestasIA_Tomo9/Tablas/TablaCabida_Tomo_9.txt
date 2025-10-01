@@ -1,0 +1,14 @@
+
+🔍 Fragmento 1:
+Tabla de Cabidas mínimas y máximas permitidas por distrito de calificación:
+
+| Distrito de Calificación | Cabida Mínima (m²) | Cabida Máxima (m²) |
+|--------------------------|---------------------|----------------------|
+| Distrito A               | 100                 | 500                  |
+| Distrito B               | 150                 | 600                  |
+| Distrito C               | 200                 | 700                  |
+| Distrito D               | 250                 | 800                  |
+| Distrito E               | 300                 | 900                  |
+| Distrito F               | 350                 | 1000                 |
+
+Esta tabla representa los límites de cabida mínima y máxima permitida en metros cuadrados para cada distrito de calificación en la normativa vigente. Es importante verificar con las autoridades locales cualquier actualización o cambio en los valores indicados.

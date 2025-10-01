@@ -1,0 +1,5 @@
+A continuación se presenta un flujograma con los pasos y requerimientos para la evaluación de Sitios Históricos por parte de la Junta de Planificación, de acuerdo con el Reglamento de Emergencia Reglamento Conjunto 2023:
+
+![Flujograma de Evaluación de Sitios Históricos por la Junta de Planificación](https://raw.githubusercontent.com/Programmatic-Cleaner/privacy_policy/main/Flujograma-Evaluacion-Sitios-Historicos.png)
+
+Este flujograma tiene como objetivo brindar una guía visual de los pasos a seguir y las decisiones que se deben tomar durante el proceso de evaluación de Sitios Históricos. Es importante seguir detenidamente cada paso y cumplir con los requerimientos establecidos en el Reglamento de Emergencia Reglamento Conjunto 2023 para garantizar una evaluación adecuada por parte de la Junta de Planificación.

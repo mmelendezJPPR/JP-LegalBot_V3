@@ -1,0 +1,13 @@
+
+🔍 Fragmento 1:
+A continuación se presenta una tabla con la cabida mínima y máxima permitida para cada distrito de calificación en Puerto Rico:
+
+| Distrito de Calificación | Cabida Mínima Permitida | Cabida Máxima Permitida |
+|-------------------------|------------------------|------------------------|
+| Distrito A | 200 m2 | 300 m2 |
+| Distrito B | 150 m2 | 250 m2 |
+| Distrito C | 100 m2 | 200 m2 |
+| Distrito D | 50 m2 | 150 m2 |
+| Distrito E | 25 m2 | 100 m2 |
+
+Es importante tener en cuenta que estos valores pueden variar según la normativa específica de cada municipio o entidad reguladora.

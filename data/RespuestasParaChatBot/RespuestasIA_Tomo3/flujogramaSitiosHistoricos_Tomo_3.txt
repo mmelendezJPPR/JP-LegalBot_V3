@@ -1,0 +1,53 @@
+### flujograma que resume los pasos y requerimientos para la evaluación de Sitios Históricos por parte de la Junta de Planificación en cumplimiento con el Reglamento de Emergencia Reglamento Conjunto 2023
+
+```
+Iniciar Evaluación de Sitio Histórico
+    |
+    v
+Presentar Solicitud de Evaluación en SUl
+    |
+    v
+Asignar Número Único al Trámite
+    |
+    v
+Evaluación de la Solicitud por OGPe, PA o Municipio Autónomo
+    |
+    v
+Cumplir con Requisitos Generales de Presentación y Evaluación (Regla 2.1.9)
+    |
+    v
+Cumplir con Requisitos Particulares del Sitio Histórico
+    |
+    v
+Realizar Pago Correspondiente según Establecido
+    |
+    v
+Examinar Expediente Digital por Oficina de Permisos del Municipio
+    |
+    v
+Elevar Expediente a Agencia Correspondiente en un Plazo de 10 días
+    |
+    v
+Solicitud de Revisión Administrativa Expedita si no se eleva en tiempo
+    |
+    v
+Solicitud presentada bajo Ley Núm. 135 no requerirá información adicional
+    |
+    v
+Solicitud de Información Adicional por parte del Solicitante si necesario
+    |
+    v
+Evaluación de la Solicitud por OGPe y Municipio Autónomo
+    |
+    v
+Determinar si la Solicitud está Completa en un Plazo de 5 días laborables
+    |
+    v
+Notificación de Validación de la Solicitud al Solicitante
+    |
+    v
+Fin del Proceso de Evaluación
+```
+
+### flujograma es una guía de referencia y se debe consultar el Reglamento completo para detalles adicionales.
+

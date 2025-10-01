@@ -1,0 +1,35 @@
+A continuación se presenta un flujograma que describe los pasos necesarios en el proceso de evaluación de transacciones de terrenos públicos por parte de la Junta de Planificación de acuerdo al Reglamento de Emergencia Reglamento Conjunto 2023:
+
+1. Inicio del proceso:
+   - Solicitud de evaluación de transacción de terreno público.
+
+2. Verificación de elegibilidad:
+   - ¿El terreno está relacionado con un Sitio o Zona histórica?
+     - Sí:
+       - Pasar al paso 3.
+     - No:
+       - Fin del proceso.
+
+3. Evaluación de criterios de elegibilidad para Sitios y Zonas históricas:
+   - Se cumplen los criterios de elegibilidad (se cumplen los puntos a, b y c)?
+     - Sí:
+       - Pasar al paso 4.
+     - No:
+       - Fin del proceso.
+
+4. Evaluación de recursos arqueológicos:
+   - ¿El terreno contiene recursos arqueológicos de cien (100) años o más?
+     - Sí:
+       - Pasar al paso 5.
+     - No:
+       - Continuar al siguiente paso relevante.
+
+5. Evaluación final y decisión:
+   - Consideración de todos los aspectos evaluados hasta ahora.
+   - ¿El terreno es apto para ser designado como Sitio/Zona histórica o contiene recursos arqueológicos significativos?
+     - Sí:
+       - Designación del terreno como Sitio/Zona histórica o recurso arqueológico.
+     - No:
+       - Finalización del proceso sin designación.
+
+Con este flujograma, se busca brindar una guía visual de los pasos a seguir para la evaluación de transacciones de terrenos públicos en relación con sitios históricos, zonas históricas y recursos arqueológicos de acuerdo al Reglamento de Emergencia Reglamento Conjunto 2023.

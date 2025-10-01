@@ -1,0 +1,294 @@
+PREGUNTAS GENERALES
+
+Cuanto tomos hay en el Reglamento Conjunto?
+- Hay 11 tomos en este Reglamento y 1 adicional que es el glosario.
+
+
+TOMO 1
+
+**TÍTULO DEL TOMO 1: Sistema de Evaluación y Tramitación de Permisos para el Desarrollo**
+
+## 1. PROPÓSITO GENERAL DEL TOMO
+El Tomo 1 del Reglamento Conjunto 2020 busca establecer un sistema unificado y eficiente para la evaluación y tramitación de permisos relacionados con el desarrollo, uso de terrenos y operación de negocios en Puerto Rico. Está dirigido a profesionales relacionados con la planificación urbana, entidades gubernamentales, y ciudadanos interesados en el desarrollo y la operación de dichos procesos. Regula principalmente los procedimientos administrativos, asegurando transparencia, celeridad y uniformidad a través del sistema unificado de información.
+
+## 2. FUNCIONES CLAVE DE LA DIVISIÓN DE CUMPLIMIENTO AMBIENTAL
+- La División de Evaluación de Cumplimiento Ambiental (DECA) de la OGPe es responsable de evaluar y tramitar todos los documentos ambientales presentados a la agencia.   
+- Cumple funciones administrativas y de manejo de documentación ambiental según lo establece la Ley 161-2009 y otros reglamentos pertinentes.
+
+## 3. AGENCIAS, FUNCIONARIOS O ENTIDADES MENCIONADAS
+- **Junta de Planificación (JP):** Coordina y adopta reglamentos en colaboración con la OGPe.
+- **Oficina de Gerencia de Permisos (OGPe):** Ejerce funciones de evaluación y emisión de permisos.
+- **Municipios Autónomos con Jerarquía:** Evalúan y otorgan permisos dentro de su jurisdicción según convenios.
+- **Profesionales Autorizados (PA):** Emiten permisos ministeriales tras acreditación.
+
+## 4. LEYES RELACIONADAS Y MARCO LEGAL APLICABLE
+- Ley 161-2009, Reforma del Proceso de Permisos de Puerto Rico
+- Ley 19-2017, Creación de un sistema uniforme de permisos
+- Ley 38-2017, Ley de Procedimiento Administrativo Uniforme
+- Ley 75-1975, Ley Orgánica de la Junta de Planificación
+- Ley 107-2020, Código Municipal de Puerto Rico
+
+## 5. NORMAS Y DIRECTRICES DESTACADAS
+- Establece un sistema de adjudicación uniforme para permisos y determinaciones finales.
+- Implementa procesos para auditorías y manejo de querellas.
+- Incluye guías para el diseño sustentable y capacitación de profesionales.
+
+## 6. DEFINICIONES O CONCEPTOS CLAVE (si se incluyen)
+- No se especifican términos definidos en el texto proporcionado.
+
+## 7. RELACIÓN CON OTROS TOMOS
+- Menciona otros tomos del Reglamento Conjunto relacionados con asuntos específicos como procedimientos administrativos, licencias, construcciones, infraestructuras, revisiones y audiciones.
+
+## 8. OBSERVACIONES FINALES
+El Tomo 1 contiene elementos introductorios que proporcionan el marco y las pautas generales para los procesos de planificación y permisos, solidificando la base normativa para los tomos subsiguientes. También incluye reglas generales de aplicación amplia en todo Puerto Rico, con disposiciones exentas para ciertos proyectos federales y municipales.
+
+### Flujograma de trámites y requerimientos
+
+1. **Solicitud de cambio de calificación directo presentada a la Junta de Planificación**
+   - Verificar que la solicitud cumple con los requisitos establecidos en la Ley 161-2009 y demás estatutos aplicables.
+
+2. **Evaluación preliminar de la solicitud**
+   - La Junta de Planificación, en colaboración con la Oficina de Gerencia de Permisos y las Entidades Gubernamentales Concernidas, evalúa la solicitud.
+
+3. **Preparación del expediente y documentación**
+   - Revisar y recopilar toda la documentación relevante para la evaluación.
+
+4. **Análisis técnico y jurídico de la solicitud**
+   - Se realiza un análisis detallado de los aspectos técnicos y jurídicos de la solicitud presentada.
+
+5. **Emisión de determinaciones finales**
+   - La Junta de Planificación emite una determinación final con base en el análisis realizado.
+
+6. **Notificación del resultado a los solicitantes**
+   - Comunicar a los solicitantes la decisión tomada y los siguientes pasos a seguir en caso de aprobación o rechazo.
+
+7. **Proceso de seguimiento y cumplimiento**
+   - En caso de aprobación, se garantiza el cumplimiento de las condiciones establecidas para el cambio de calificación.
+
+
+```
+Flujograma de Sitios Históricos
+
+1. Solicitud de evaluación de Sitio Histórico es presentada a la Junta de Planificación.
+
+2. La Junta de Planificación revisa la solicitud para garantizar que cumple con los requisitos establecidos en el Reglamento Conjunto.
+
+3. Si la solicitud cumple con los requisitos:
+    3.1 Se asigna un equipo de evaluación para analizar el Sitio Histórico.
+    3.2 Se realiza la evaluación del impacto del desarrollo propuesto en el Sitio Histórico.
+    3.3 Se emite una recomendación a la Junta de Planificación.
+
+4. La Junta de Planificación revisa la recomendación y emite una determinación final.
+
+5. Si la solicitud no cumple con los requisitos:
+    5.1 Se devuelve la solicitud al solicitante con indicaciones sobre los aspectos a corregir.
+    5.2 El solicitante puede modificar y volver a presentar la solicitud.
+
+6. Determinación final de la Junta de Planificación:
+    6.1 Si se aprueba la evaluación del Sitio Histórico, se emite el permiso correspondiente con las condiciones y restricciones especificadas.
+    6.2 Si se rechaza la evaluación, se notifica al solicitante con las razones del rechazo.
+
+Fin
+```
+Flujograma de Terrenos Publicos
+
+1. **Solicitud de permiso para desarrollo de terrenos públicos**
+    a. Inicia la solicitud en la Junta de Planificación.
+    b. Se evalúan los documentos presentados y se verifica que cumplan con los requisitos establecidos en el Reglamento Conjunto.
+    c. Se asigna un número de expediente y se notifica al solicitante.
+  
+2. **Análisis y Evaluación por parte de la Junta de Planificación**
+    a. Se designa un equipo de evaluadores para revisar el proyecto.
+    b. Se realiza una evaluación técnica y legal del proyecto.
+    c. Se emite un informe de evaluación con posibles recomendaciones.
+  
+3. **Revisión por Entidades Gubernamentales Concernidas**
+    a. Se envía el proyecto a las entidades gubernamentales relevantes para su revisión.
+    b. Las entidades emiten sus comentarios y recomendaciones.
+  
+4. **Emisión de Determinación Final por parte de la Junta de Planificación**
+    a. La Junta de Planificación revisa el informe de evaluación y los comentarios de las entidades gubernamentales.
+    b. Se emite una determinación final sobre la solicitud de permiso.
+  
+5. **Notificación al Solicitante**
+    a. Se notifica al solicitante la determinación final.
+    b. En caso de aprobación, se establecen las condiciones y requisitos para la ejecución del proyecto.
+  
+6. **Seguimiento y Cumplimiento**
+    a. Se monitorea el cumplimiento de las condiciones establecidas.
+    b. Se realizan inspecciones periódicas para verificar el desarrollo conforme a lo autorizado.
+
+Fin
+
+Resoluciones
+
+- Sistema de Evaluación y Tramitación de Permisos para el Desarrollo (Año: Ley 161-2009, Ley 19-2017)
+- Organización Administrativa (Año: Ley 161-2009)
+- Junta de Planificación (Año: Ley Núm. 75 de 24 de junio de 1975, según enmendada)
+- Reglamento Conjunto 2020 (Año: 2020)
+
+Fin
+
+Tabla de Cabida
+
+| Distrito de Calificación | Cabida Mínima Permitida | Cabida Máxima Permitida |
+|-----------------------|-------------------------|-------------------------|
+| Distrito I            | 200 m²                 | 400 m²                 |
+| Distrito II           | 150 m²                 | 300 m²                 |
+| Distrito III          | 100 m²                 | 250 m²                 |
+| Distrito IV           | 120 m²                 | 280 m²                 |
+| Distrito V            | 180 m²                 | 350 m²                 |
+
+Fin
+
+-La función específica de la División de Cumplimiento Ambiental es preparar y adoptar, junto con la Junta de Planificación, la Oficina de Gerencia de Permisos (OGPe) y las Entidades Gubernamentales Concernidas, un Reglamento Conjunto para establecer un sistema uniforme de adjudicación, procesos uniformes para la evaluación y expedición de determinaciones finales, permisos y recomendaciones relacionados a obras de construcción y uso de terrenos, guías de diseño verde, procedimientos de auditorías y querellas, y cualquier otro asunto referido a la Ley 161-2009 (Artículo a, Reglamento Conjunto 2020).
+La División de Cumplimiento Ambiental actúa con la autoridad delegada en la Ley 161-2009, la Ley Núm. 75, la Ley Núm. 107 de 2020 (Código Municipal de Puerto Rico) y la Ley Núm. 38-2017 (Ley de Procedimiento Administrativo Uniforme) para preparar y adoptar el Reglamento Conjunto (Artículo a, Reglamento Conjunto 2020).
+Interviene en procesos de preparar y adoptar el Reglamento Conjunto, lo cual implica establecer un sistema uniforme de adjudicación, procesos uniformes para evaluación y expedición de determinaciones finales, permisos y recomendaciones, guías de diseño verde, y procedimientos de auditorías y querellas (Artículo a, Reglamento Conjunto 2020).
+
+-Se mencionan otros reglamentos como la Ley Núm. 75, la Ley Núm. 107 de 2020 (Código Municipal de Puerto Rico) y la Ley Núm. 38-2017 (Ley de Procedimiento Administrativo Uniforme), con los cuales se relaciona el Reglamento Conjunto, ya que deben preparar y adoptar disposiciones en alineación con dichas leyes (Artículo a, Reglamento Conjunto 2020).
+Existe una jerarquía entre estos reglamentos, ya que el Reglamento Conjunto se establece en cumplimiento con las disposiciones de la Ley 161-2009, la Ley Núm. 75, la Ley Núm. 107 de 2020 y la Ley Núm. 38-2017 (Artículo a, Reglamento Conjunto 2020).
+
+Fin
+
+TOMO 2
+
+# RESUMEN DEL TOMO 2: PROCEDIMIENTOS ADMINISTRATIVOS, FUNCIONES Y ACTIVIDADES DELEGADAS
+
+## 1. PROPÓSITO GENERAL DEL TOMO
+
+El Tomo 2 del Reglamento Conjunto 2020 detalla los procedimientos administrativos para decisiones sobre permisos, transacciones de terrenos públicos, certificaciones y documentos ambientales. Su objetivo es mejorar la eficiencia y calidad del sistema integrado de permisos en Puerto Rico. Este tomo está dirigido a entidades como la Junta de Planificación (JP), la Oficina de Gerencia de Permisos (OGPe), y municipios autónomos, regulando decisiones adjudicativas relacionadas con dichos procesos.
+
+Este tomo se centra en los requisitos de presentación y evaluación de solicitudes relacionadas con el uso del suelo y permisos de construcción en Puerto Rico. Está dirigido a solicitantes que interactúan con la Oficina de Gerencia de Permisos (OGPe) y los Municipios Autónomos bajo diversas jerarquías. Regula principalmente cómo se deben presentar, notificar y evaluar estas solicitudes, junto con los plazos y requisitos asociados.
+
+El Tomo 2 establece las pautas para la certificación y autorización de distintos proyectos de construcción en Puerto Rico. Su objetivo principal es asegurar el cumplimiento de las normativas ambientales y de planificación territorial por parte de los profesionales de la construcción. Está dirigido a ingenieros, arquitectos, contratistas, inspectores y funcionarios municipales y gubernamentales.
+
+## 2. FUNCIONES CLAVE DE LA DIVISIÓN DE CUMPLIMIENTO AMBIENTAL
+
+NO ESPECIFICADO EN ESTE TOMO, pero se menciona una Unidad de Evaluación de Cumplimiento Ambiental al hablar sobre proyectos relacionados con arqueología y conservación histórica.
+
+## 3. AGENCIAS, FUNCIONARIOS O ENTIDADES MENCIONADAS
+
+- **Junta de Planificación (JP)**: Fiscaliza el cumplimiento con las determinaciones finales y permisos.
+- **Oficina de Gerencia de Permisos (OGPe)**: Actúa como centro de presentación de notificaciones y evaluación de consultas de construcción.
+- **Municipios Autónomos con Jerarquía**: Evalúan y emiten determinaciones finales en ciertos asuntos.
+- **División de Revisiones Administrativas**: Revisa actuaciones y determinaciones en el proceso de permisos.
+
+## 4. LEYES RELACIONADAS Y MARCO LEGAL APLICABLE
+
+- **Ley 161-2009**: Reforma del Proceso de Permisos en Puerto Rico, base del reglamento mencionado.
+- **Ley de Procedimiento Administrativo Uniforme (Ley 38-2017)**: Rige la evaluación y otorgamiento de permisos y determinaciones.
+- Ley 75-1975: Ley Orgánica de la Junta de Planificación.
+- Ley 107-2020: Código Municipal de Puerto Rico.
+- Ley 416-2004: Ley sobre Política Pública Ambiental.
+
+## 5. NORMAS Y DIRECTRICES DESTACADAS
+
+Este tomo establece un sistema unificado de información para la presentación y evaluación de solicitudes de permisos y otros trámites relacionados. Se adoptan principios normativos como la certificación de un Agrimensor Profesional para proyectos que implican creación de nuevas parcelas, y el uso de un Sistema de Coordenadas Planas Estatales para un sistema cartográfico preciso.
+
+El tomo establece procedimientos para la presentación y notificación de solicitudes, evaluación en plazos específicos, y cómo se tramitan las consultas de ubicación para proyectos discretionales. También detalla los términos de vigencia de las decisiones finales y las prórrogas de permisos de construcción.
+
+El tomo establece criterios técnicos para la evaluación de proyectos y obras, incluye la norma de dibujo CAD para planos, y regula la participación pública en planificación ambiental. Destaca los procedimientos de certificación antes y después de la construcción, con responsabilidades claras para contratistas e inspectores.
+
+## 6. DEFINICIONES O CONCEPTOS CLAVE
+
+Se definen términos como permisos, licencias, consultas de ubicación, transacciones de terrenos públicos, revisiones administrativas y querellas.
+
+## 7. RELACIÓN CON OTROS TOMOS
+
+Hace referencia al Capítulo 3.3 del Tomo III para el procedimiento de evaluación de un "Permiso Verde". Se hace referencia a capítulos de otros tomos como el Tomo V para regulaciones específicas sobre urbanizaciones, lotificaciones y residencias de interés social. Se mencionan referencias a otros tomos del Reglamento Conjunto, específicamente en procedimientos técnicos detallados que requieren trazabilidad con capítulos de otros tomos.
+
+## 8. OBSERVACIONES FINALES
+
+El Tomo 2 incluye elementos de procedimientos introductorios, que establecen las bases para la tramitación eficiente de permisos y otras solicitudes, ofreciendo un marco estructurado para decisiones administrativas que sentarán las bases para prácticas futuras bajo este y otros tomos del reglamento. El Tomo 2 incluye principios organizativos clave y lineamientos técnicos que refuerzan la implementación práctica en el contexto del Reglamento Conjunto completo, marcando un precedente técnico para la revisión de permisos y cumplimientos de obras.
+
+
+Este resumen está diseñado para comunicar claramente las disposiciones del Tomo 2 del Reglamento Conjunto 2020 a profesionales jurídicos y ciudadanos interesados.
+
+- Las disposiciones principales del Tomo 2 son establecer normas para regular los procedimientos administrativos relacionados con la toma de decisiones sobre permisos, consultas, transacciones de terrenos públicos, certificaciones, autorizaciones y documentos ambientales con el fin de mejorar la calidad y eficiencia de los procesos del sistema integrado de permisos. También se menciona que los procesos relacionados con permisos, consultas y transacciones de terrenos públicos son procedimientos adjudicativos.
+- El Tomo 2 aplica a todos los procedimientos administrativos que se ventilen ante la JP, la OGPe, Junta Adjudicativa, los Municipios Autónomos con Jerarquía de la l a la lll, los PA y los IA, de acuerdo con las facultades delegadas en la Ley 161-2009. Cubre determinaciones finales, permisos, licencias, certificaciones, autorizaciones y cualquier trámite necesario para la operación de un negocio en Puerto Rico.
+- La Ley 38-2017 LPAU se aplica para establecer las normas y procedimientos que rigen la administración y el desarrollo de terrenos en Puerto Rico, con el objetivo de promover un desarrollo equilibrado, ordenado y sostenible del territorio.
+- Servicios identificados: determinaciones finales, permisos, licencias, certificaciones, autorizaciones.
+- Trámites identificados: consultas de construcción, consultas de ubicación, cambios de calificación o recalificación directa de solares, transacciones de terrenos públicos, etc.
+-Las clases de solicitudes pueden ser de permisos, licencias, consultas de ubicación, transacciones de terrenos públicos, revisiones administrativas, querellas y auditorías de permisos, dependiendo de la naturaleza del servicio o trámite requerido.
+- En este fragmento se establece que los procesos relacionados con permisos, consultas y transacciones de terrenos públicos son procedimientos adjudicativos, lo que sugiere que se centran en la toma de decisiones sobre casos particulares siguiendo un procedimiento legal establecido.
+-Se requieren vistas públicas cuando la naturaleza de la solicitud o trámite así lo exige, o cuando la legislación aplicable lo establece específicamente para ciertos casos.
+- Un asunto ministerial es aquel que requiere una decisión o autorización de una entidad competente, y se tramita conforme a los procedimientos establecidos para tal fin, incluyendo la solicitud correspondiente y la evaluación por parte de la autoridad competente.
+- Existen dos clases de notificaciones: las realizadas por correo electrónico y aquellas que se hacen mediante correo ordinario o de forma presencial, dependiendo de si la persona cuenta con una dirección de correo electrónico registrada en el sistema.
+-Las solicitudes de carácter discrecional son aquellas en las que la autoridad competente tiene cierto margen de apreciación para su aprobación, y se tramitan de acuerdo a criterios establecidos por la legislación aplicable y la normativa vigente.
+- Para aprobar una determinación final se deben cumplir con los requisitos y elementos establecidos por la ley y la normativa aplicable, los cuales pueden incluir documentación específica, evidencia de cumplimiento de requisitos legales, evaluaciones técnicas, entre otros criterios determinados para cada tipo de solicitud.
+
+Fin
+
+TOMO 3
+
+-Un permiso para desarrollo y negocios es un trámite administrativo necesario para llevar a cabo proyectos y operaciones comerciales en Puerto Rico.
+-Entre los requisitos para solicitar este tipo de permisos se encuentran presentar la solicitud de forma electrónica a través del portal único de tramitación digital, cumplir con los requisitos generales establecidos en el reglamento y los requisitos particulares detallados en el capítulo correspondiente, realizar el pago correspondiente según lo establecido por la OGPe, entre otros.
+-La tramitación de un permiso se inicia con la presentación electrónica de la solicitud, la evaluación por parte de las entidades correspondientes, la posibilidad de solicitarse información adicional al solicitante, la validación de la solicitud en un plazo no mayor de cinco días laborables, entre otros procedimientos detallados en la normativa correspondiente.
+-Una determinación final se considera un proceso adjudicativo según la Ley 38-2017 LPAU cuando implica una resolución sobre derechos, deberes o beneficios de personas, como puede ser en el caso de la aprobación o denegación de un permiso.
+-Se mencionan 122 permisos para desarrollos y negocios, y se detallan los requisitos específicos para cada tipo de servicio. Se señalan diferencias en las solicitudes según el tipo de proyecto o negocio a desarrollar.
+-Un permiso de medio ambiente es un trámite necesario para aquellos proyectos que puedan afectar el entorno natural. En este tomo se detallan los requisitos y el proceso para obtener un permiso de medio ambiente, aunque no se especifica cuántos hay ni en qué reglas se detallan. Los requisitos y la tramitación pueden variar dependiendo del impacto ambiental que pueda tener el proyecto o negocio en cuestión.
+
+TOMO 4
+
+-Hay un total de 21 licencias y certificaciones mencionadas en el texto.
+-Los requisitos pueden variar dependiendo del tipo de licencia o certificación, pero en general incluyen cumplir con las normativas establecidas en el Reglamento y pasar las inspecciones requeridas.
+-Las licencias y certificaciones se tramitan a través de la OGPe, los Municipios Autónomos con Jerarquía de la I a la III y los PA, utilizando el Sistema Único de Información (SUI).
+-Estas licencias y certificaciones son requeridas para negocios y operaciones relacionadas con la venta y distribución de bebidas alcohólicas, cigarrillos, así como para fabricantes de cerveza y vino. También se mencionan licencias sanitarias necesarias para la operación de negocios en Puerto Rico.
+
+
+TOMO 5 Urbanización y Lotificación
+
+-Un proyecto de urbanización es el proceso de planificar, diseñar, construir y desarrollar un área de terreno para convertirla en un espacio urbano habitable, con infraestructuras básicas como calles, aceras, redes eléctricas, de agua, y alcantarillado, zonas verdes, entre otros.
+-Un proyecto de lotificación es similar a un proyecto de urbanización, pero se enfoca en dividir un terreno en lotes o parcelas más pequeñas para la venta individual, con el fin de que cada comprador pueda construir su propia vivienda o desarrollo.
+-Las clasificaciones se utilizan en estos trámites para determinar el uso del suelo, por ejemplo, si se destinará para uso residencial, comercial, industrial, recreativo, entre otros. Estas clasificaciones son importantes para garantizar un desarrollo urbano ordenado y acorde a las necesidades de la comunidad.
+-Las calificaciones se utilizan para determinar si una instalación o uso de terreno cumple con los parámetros y normativas establecidas para su función, por ejemplo, si un área comercial cumple con los requisitos de zonificación correspondientes.
+-Para llevar a cabo proyectos de urbanización y lotificación, se requiere la coordinación con múltiples agencias gubernamentales, como el municipio, la Oficina de Gerencia de Permisos (OGPe), entre otras, para obtener los permisos y autorizaciones necesarios. Estos proyectos también implican múltiples trámites, como la aprobación de planos, permisos de construcción, inscripción de terrenos, entre otros.
+
+TOMO 6 - Distancia de calificación
+
+-Una equivalencia es una relación de igualdad o similitud entre diferentes elementos, en este caso, entre distritos de calificación.
+-Hay diversas clasificaciones de distritos de calificación.
+-Se pueden consolidar aquellos distritos que sean similares o afines para reducir su cantidad.
+-Puede haber varias calificaciones de conservación.
+-Se pueden correlacionar y consolidar las calificaciones de conservación para simplificar el sistema.
+-Un parámetro de diseño es una medida o valor utilizado para diseñar de manera efectiva, se utilizan para establecer límites o características en el desarrollo y uso de terrenos.
+-Las calificaciones pueden tener prohibiciones que regulan ciertas actividades o usos en determinados terrenos.
+-El plan de uso de terrenos interactúa con las calificaciones al establecer cómo se puede utilizar un terreno de acuerdo a su calificación.
+-Pueden utilizarse diferentes procesos ambientales en la calificación de terrenos para evaluar su impacto y sostenibilidad.
+-Es importante obtener certificaciones de agencia requeridas para las calificaciones de manera legal y adecuada.
+
+
+Tomo 7 - PROCESOS
+
+-La Junta de Planificación tiene al menos 2 procesos, los cuales se detallan en los Capítulos 7.1 y 7.2.
+-Los trámites ante la Junta de Planificación deben cumplir con los requisitos establecidos en la Ley de Procedimiento Administrativo Uniforme, la Ley Orgánica de la Junta de Planificación y la Ley para la Reforma del Proceso de Permisos de Puerto Rico. Además, se deben presentar los documentos requeridos por un Planificador Profesional Licenciado.
+-La Zona Costanera debe delimitarse siguiendo las disposiciones generales establecidas, como por ejemplo, definir el uso de los terrenos costeros para actividades como recreación, conservación de recursos naturales, transporte, entre otros. Se deben seguir las normas y directrices de la Junta de Planificación para garantizar un desarrollo adecuado y sostenible de dicha zona.
+
+
+ TOMO 8 – EDIFICABILIDAD
+
+-La edificabilidad de las casas en hilera en los distritos R-B, R-1, R-U, RT-1 y RT-A está sujeta a los parámetros de diseño mencionados en el texto.
+-Hay varios parámetros de edificabilidad en este caso específico, como la capacidad máxima de unidades de vivienda por edificio, el ancho mínimo del solar, la densidad poblacional, el área máxima permitida y los requisitos de los patios delantero, lateral y posterior.
+-Los parámetros de edificabilidad se aplican en los distritos de calificación mencionados, según lo dispuesto en la Regla 8.1.1 del Capítulo 8.1 del Tomo VIII del Reglamento
+-Otros trámites en este tomo podrían incluir especificaciones sobre permisos de construcción, normas de seguridad, requisitos de zonificación, entre otros procedimientos relacionados con la edificación y construcción en dichos distritos.
+
+TOMO 9 - INFRAESTRUCTURA Y AMBIENTE
+
+-Las obras de infraestructura son aquellas construcciones físicas y proyectos que se realizan para el desarrollo y funcionamiento de una sociedad, como carreteras, puentes, sistemas de transporte, energía, acueductos, alcantarillados, entre otros.
+-En el texto proporcionado, se mencionan seis trámites de infraestructura eléctrica que requieren recomendación de la Autoridad de Energía Eléctrica (AEE) previo a la otorgación del permiso por la Oficina de Gerencia de Permisos (OGPe) o Municipio Autónomo con Jerarquía.
+ Energía: En el contexto del texto, se refiere a las obras relacionadas con la generación, transmisión e interconexión de energía eléctrica.
+ Acueductos: Se relaciona con las obras destinadas a la captación, conducción, tratamiento y distribución de agua potable para consumo humano y otros usos.
+ Alcantarillados: Se refiere a las infraestructuras que comprenden la recogida, transporte, tratamiento y disposición final de aguas residuales y pluviales.
+-Entre las recomendaciones necesarias en todos los procesos de este tomo se encuentran: Cumplir con las normativas y regulaciones establecidas por la Autoridad de Energía Eléctrica. Incluir todos los documentos requeridos en las solicitudes, como memorias explicativas, planos de sitio, detalles del proyecto, entre otros. Asegurar que los planos y documentos estén correctamente sellados y firmados por profesionales responsables.
+-El Plan Vial y Acceso a Vías es un aspecto importante a considerar en la aprobación de otros trámites en este tomo, ya que la conexión a vías públicas y las condiciones de accesibilidad son fundamentales para el desarrollo de proyectos de infraestructura. Por lo tanto, se debe garantizar que los proyectos cumplan con las regulaciones y requisitos establecidos en cuanto a su impacto en el entorno vial y la seguridad de la circulación.
+
+TOMO 10 - CONSERVACIÓN HISTÓRICA
+
+-Una zona o sitio histórico es un lugar, edificio, estructura u objeto que tiene más de cincuenta años de antigüedad y que tiene un significado importante en la historia, arquitectura, arte, arqueología, ingeniería o cultura de un país, contribuyendo a explicar sus fundamentos.
+-Estos sitios pueden ser nominados por la Junta de Planificación (JP) por iniciativa propia o a solicitud de cualquier persona, agencia o entidad interesada. Para ser considerados como sitios históricos, deben cumplir con una serie de criterios de elegibilidad, como estar asociados con eventos significativos, representar características distintivas de un período determinado o tener un valor artístico o arquitectónico de importancia.
+-Una vez declarados como zonas o sitios históricos, estos distritos pueden tener ciertas restricciones en cuanto a las modificaciones o remodelaciones que se les pueden hacer, con el fin de preservar su carácter histórico y cultural. Por ejemplo, es posible que se requiera la aprobación de un comité de preservación histórica antes de hacer cambios significativos en la estructura, o que se establezcan limitaciones en cuanto al uso del espacio para mantener su integridad histórica.
+
+ TOMO 11-QUERELLAS
+
+-En resumen el Tomo 11 comienza con el Capítulo 11.1 que trata sobre las revisiones, querellas, multas y auditorías en el contexto de la planificación. Se establecen reglas y procedimientos para las revisiones administrativas y revisiones administrativas expeditas presentadas ante la División de Revisiones Administrativas de la OGPe, de acuerdo a la Ley 161-2009. Se establece que la presentación de una solicitud de revisión administrativa no es un requisito previo para recurrir ante el Tribunal de Apelaciones, pero presentarla a tiempo paraliza los términos para recurrir.Se establece que una parte afectada por una determinación de la OGPe, Junta Adjudicativa, Municipios Autónomos o Profesional Autorizado, puede presentar una solicitud de revisión administrativa dentro de veinte días a partir de la notificación de la decisión. Se detallan los requisitos para presentar una revisión administrativa, como el pago de aranceles, copia de la resolución a revisarse y notificaciones pertinentes.Se menciona el contenido mínimo que debe tener el escrito de revisión administrativa, incluyendo información del peticionario, referencia de la decisión a revisar, hechos pertinentes, discusión de errores y súplica. También se exige una discusión específica de los asuntos a revisar y un listado de las partes involucradas en el caso. Finalmente, se abordan las notificaciones de la presentación de una revisión administrativa y se detallan los mecanismos para ello.El capítulo continúa con las secciones 11.1.2.3, 11.1.2.4, 11.1.2.5 y 11.1.2.6, las cuales desarrollan más aspectos relacionados con las revisiones administrativas, incluyendo requisitos específicos y procedimientos a seguir.
+

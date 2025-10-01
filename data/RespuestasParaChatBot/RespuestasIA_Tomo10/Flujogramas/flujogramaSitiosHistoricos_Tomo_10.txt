@@ -1,0 +1,40 @@
+Para establecer una guía de referencia con flujograma sobre los trámites y requerimientos para la evaluación de Sitios Históricos por parte de la Junta de Planificación, podemos seguir los siguientes pasos basados en el Reglamento de Emergencia Reglamento Conjunto 2023:
+
+1. Inicio del Proceso de Evaluación de Sitios Históricos por la Junta de Planificación:
+
+- ¿Iniciativa de la JP o solicitud de persona, agencia o entidad?
+
+    - JP inicia por propia iniciativa
+        - Revisar criterios de elegibilidad para Sitios Históricos y Zonas Históricas (Sección 10.1.1.1)
+            - Cumple con criterios de elegibilidad?
+                - Sí: Continuar evaluación
+                - No: Descartar sitio histórico
+
+    - Solicitud de persona, agencia o entidad
+        - Revisar documentación presentada
+            - Cumple con criterios de elegibilidad para Sitios Históricos y Zonas Históricas (Sección 10.1.1.1)?
+                - Sí: Continuar evaluación
+                - No: Requerir más información o documentación
+
+2. Evaluación de Sitios Históricos:
+
+- Revisar criterios de elegibilidad detallados en la Sección 10.1.1.1 y 10.1.1.2 del Reglamento de Emergencia Reglamento Conjunto 2023
+    - Sitio histórico o zona histórica tiene más de 50 años y significado histórico, arquitectónico, cultural, etc.?
+        - Sí: Continuar evaluación
+        - No: Descartar sitio histórico
+
+3. Verificación de Recursos Arqueológicos (si aplica):
+
+- Identificar si el sitio contiene recursos arqueológicos según la definición y criterios establecidos en la Sección 10.1.1.2
+    - Recurso arqueológico tiene 100 años o más y relevancia para la arqueología?
+        - Sí: Continuar evaluación
+        - No: Excluir recursos arqueológicos
+
+4. Decisión de la Junta de Planificación:
+
+- Presentar evaluación del sitio histórico, zona histórica y recursos arqueológicos (si aplica) a la Junta de Planificación
+    - ¿Cumple con todos los criterios de elegibilidad y requisitos establecidos en el Reglamento de Emergencia Reglamento Conjunto 2023?
+        - Sí: Recomendar designación del sitio histórico
+        - No: Descartar designación del sitio histórico
+
+Este flujograma proporciona una guía simplificada de los pasos a seguir para la evaluación de Sitios Históricos por parte de la Junta de Planificación, con base en el Reglamento de Emergencia Reglamento Conjunto 2023. Es importante tener en cuenta que este es un proceso general y que cada caso puede requerir consideraciones específicas adicionales.

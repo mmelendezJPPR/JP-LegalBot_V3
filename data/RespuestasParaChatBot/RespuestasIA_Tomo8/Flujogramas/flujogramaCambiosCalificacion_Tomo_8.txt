@@ -1,0 +1,48 @@
+### Flujograma: Evaluación de Cambios de Calificación Directo por la Junta de Planificación
+
+#### 1. **Inicio del Proceso**
+   - Iniciar solicitud de cambio de calificación directo por parte del promotor o propietario
+   - ¿La solicitud cumple con los requisitos básicos del Reglamento de Emergencia Reglamento Conjunto 2023?
+     - **Sí:** Pasar al paso 2
+     - **No:** Solicitar correcciones
+
+#### 2. **Verificación de Parámetros de Diseño**
+   - Verificar que el proyecto cumple con los parámetros de diseño establecidos
+   - ¿El cambio propuesto es compatible con la zonificación existente?
+     - **Sí:** Pasar al paso 3
+     - **No:** Evaluar viabilidad o rechazar
+
+#### 3. **Presentación de Documentación**
+   - Presentar toda la documentación requerida para la evaluación
+   - Incluir planos, especificaciones técnicas y estudios necesarios
+   - ¿La documentación está completa y cumple estándares?
+     - **Sí:** Pasar al paso 4
+     - **No:** Solicitar documentación adicional
+
+#### 4. **Análisis y Evaluación Técnica**
+   - La Junta de Planificación analiza la solicitud
+   - Verificación de cumplimiento con normativas vigentes
+   - ¿El proyecto es viable urbanística y legalmente?
+     - **Sí:** Pasar al paso 5
+     - **No:** Denegar o solicitar modificaciones
+
+#### 5. **Emisión de Resolución**
+   - La Junta de Planificación emite resolución con la decisión
+   - En caso de aprobación: establecer condiciones y requisitos adicionales
+   - ¿Se aprueba el cambio de calificación?
+     - **Sí:** Proceder con notificación
+     - **No:** Notificar razones del rechazo
+
+#### 6. **Notificación al Solicitante**
+   - Notificar al promotor o propietario la decisión tomada
+   - En caso de aprobación: indicar pasos para la ejecución del proyecto
+   - Establecer plazos y condiciones específicas
+
+#### 7. **Seguimiento y Cumplimiento de Condiciones**
+   - Asegurar el cumplimiento de las condiciones estipuladas
+   - Realizar seguimiento para garantizar desarrollo según lo autorizado
+   - Implementar mecanismos de control y verificación
+
+Este flujograma proporciona una guía estructurada para la evaluación de cambios de calificación directo, conforme al Reglamento de Emergencia Reglamento Conjunto 2023.
+
+Por favor, ten en cuenta que este flujograma se basa en la información proporcionada en el Reglamento de Emergencia Reglamento Conjunto 2023 y puede ser necesario complementarlo con detalles adicionales específicos de la normativa aplicable a cada caso concreto.

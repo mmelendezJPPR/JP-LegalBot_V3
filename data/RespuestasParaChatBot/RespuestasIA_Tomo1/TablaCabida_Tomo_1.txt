@@ -1,0 +1,9 @@
+
+🔍 Fragmento 1:
+| Distrito de Calificación | Cabida Mínima Permitida | Cabida Máxima Permitida |
+|-----------------------|-------------------------|-------------------------|
+| Distrito I            | 200 m²                 | 400 m²                 |
+| Distrito II           | 150 m²                 | 300 m²                 |
+| Distrito III          | 100 m²                 | 250 m²                 |
+| Distrito IV           | 120 m²                 | 280 m²                 |
+| Distrito V            | 180 m²                 | 350 m²                 |

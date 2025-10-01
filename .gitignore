@@ -1,0 +1,109 @@
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+database/*.db
+database/*.sqlite
+database/*.sqlite3
+conversaciones.db
+
+# Environment and config files
+.env
+.env.local
+.env.production
+.env.staging
+*.key
+.venv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+.virtualenv/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Logs and temporary files
+*.log
+*.tmp
+temp/
+.DS_Store
+Thumbs.db
+
+# Railway
+.railway/
+
+# Development and testing files
+test_*.py
+debug_*.py
+pruebas_*.py
+verificar_*.py
+*_backup.py
+*_temp.py
+*_old.py
+
+# Archivos de log específicos
+log_*.txt
+
+# Archivos temporales del proyecto
+.modo_emergencia
+
+# Docker y deployment
+.dockerignore
+docker-compose.yml
+.render/
+
+# Backup folders
+*_backup/
+*backup*/
+tomos_originales_backup*/
+
+# OS specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project specific cleanup
+RespuestasdePrueba.txt
+*.bak
+*.backup
+*.tmp
+jp_IA_sistema.py
+preguntas_retantes_jp_ia.py
+build.sh
+.env.example
+
+# Development artifacts
+*.log
+test_*.py
+debug_*.py
+
