@@ -198,6 +198,12 @@ Este proyecto está bajo la Licencia MIT. Ver `LICENSE` para más detalles.
 
 ## 🙏 Agradecimientos
 
+---
+
+Nota de importación: este contenido fue subido desde una copia local al branch `import-local`.
+Algunos archivos grandes (PDF, índices FAISS, pickles) se subieron usando Git LFS. Si vas a clonar
+el repositorio asegúrate de instalar Git LFS: https://git-lfs.github.com/ y ejecutar `git lfs install`.
+
 - OpenAI por la API GPT
 - Comunidad de desarrolladores de Flask
 - Equipo de la Junta de Planificación
