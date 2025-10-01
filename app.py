@@ -1894,26 +1894,17 @@ def change_password():
             flash('❌ Usuario o contraseña actual incorrectos', 'error')
             return render_template('ChangePassword.html')
         
-        # 🎯 Estrategia de actualización dual para máxima persistencia
-        success_database = update_password_in_database(username, new_password)
-        success_local = update_password_in_local_system(username, new_password)
+        # 🎯 Actualizar contraseña en SQLite
+        success = simple_auth.update_password(username, new_password)
         
-        if success_database:
-            logger.info(f"✅ Contraseña actualizada en BD SQL Server para: {username}")
-            if success_local:
-                logger.info(f"✅ Contraseña también sincronizada localmente para: {username}")
+        if success:
+            logger.info(f"✅ Contraseña actualizada en SQLite para: {username}")
             # Redirigir a página de confirmación
             return redirect(url_for('change_password_complete', 
                                   username=username, 
-                                  method='Base de datos principal + Sistema local'))
-        elif success_local:
-            logger.warning(f"⚠️ BD no disponible - Contraseña actualizada solo localmente para: {username}")
-            # Redirigir a página de confirmación
-            return redirect(url_for('change_password_complete', 
-                                  username=username, 
-                                  method='Sistema local (BD no disponible)'))
+                                  method='Base de datos SQLite'))
         else:
-            logger.error(f"❌ Error actualizando contraseña en ambos sistemas para: {username}")
+            logger.error(f"❌ Error actualizando contraseña en SQLite para: {username}")
             flash('❌ Error al actualizar contraseña. Intente nuevamente.', 'error')
             return render_template('ChangePassword.html')
         

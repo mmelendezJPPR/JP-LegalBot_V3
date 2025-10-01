@@ -131,6 +131,7 @@ window.handleKeyPress = handleKeyPress;
 window.sendMessage = sendMessage;
 window.newChat = newChat;
 window.quickQuery = quickQuery;
+window.closeSession = closeSession;
 
 // ===== FUNCIONES AUXILIARES =====
 function newChat() {
@@ -151,6 +152,11 @@ function newChat() {
     AppState.currentSessionId = generateSessionId();
     
     console.log('🔄 Nueva conversación iniciada');
+}
+
+function closeSession() {
+    // Redirigir al logout o página de cierre de sesión
+    window.location.href = '/login'; // Ajustar según la ruta real de cierre de sesión
 }
 
 function quickQuery(query) {
